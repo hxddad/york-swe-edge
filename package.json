@@ -36,7 +36,9 @@
         "url": "https://github.com/StartBootstrap/startbootstrap-simple-sidebar.git"
     },
     "dependencies": {
-        "bootstrap": "5.2.3"
+        "bootstrap": "5.2.3",
+        "ejs": "^3.1.10",
+        "startbootstrap-simple-sidebar": "^6.0.6"
     },
     "devDependencies": {
         "autoprefixer": "10.4.14",

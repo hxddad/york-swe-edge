@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <%- include('partials/head') %>
+</head>
+<body>
+    <div class="d-flex" id="wrapper">
+        <!-- Sidebar-->
+        <div class="border-end bg-white" id="sidebar-wrapper">
+            <div class="sidebar-heading border-bottom bg-light">Menu</div>
+            <div class="list-group list-group-flush">
+                <a class="list-group-item list-group-item-action list-group-item-light p-3" href="/home">Home</a>
+                <a class="list-group-item list-group-item-action list-group-item-light p-3" href="/faqs">FAQs</a>
+                <a class="list-group-item list-group-item-action list-group-item-light p-3" href="/1st_year">1st Year Courses</a>
+                <a class="list-group-item list-group-item-action list-group-item-light p-3" href="/2nd_year">2nd Year Courses</a>
+                <a class="list-group-item list-group-item-action list-group-item-light p-3" href="/feedback">Feedback</a>
+            </div>
+        </div>
+        <!-- Page content wrapper-->
+        <div id="page-content-wrapper">
+            <!-- Top navigation-->
+            <%- include('partials/nav') %>
+            <!-- Page content-->
+            <div class="container-fluid">
+                <%- body %>
+            </div>
+        </div>
+    </div>
+    <!-- Bootstrap core JS and core theme JS -->
+    <%- include('partials/scripts') %>
+</body>
+</html>
