@@ -38,18 +38,59 @@
                 </nav>
                 <!-- Page content-->
                 <div class="container-fluid">
-                    <h1 class="mt-4">Hello 👋, </h1>
-                    <p>
-                        I'm Yazan and I'm currently studying Software Engineering at York University. I started the program in Fall 2022, and I'm expecting to graduate by April 2026. The purpose of this personal project is to cover FAQs and advice from myself as a student, to prepare Software Engineering students to be successful in their degree such as courses, roadmaps, etc. Other people from other universities (and here) have created guides and tools similar to mine, which has inspired me to do the same and deliver this to whoever needs this the most.
+                    <h1 class="mt-4"><i class="fa-solid fa-comment"></i> Feedback</h1>
+                    <p>I'm always open to feedback and willing to make updates to this site if needed 🙂.
                     </p>
-                    <p>
-                        Engineering has a LOT of courses you will take, including courses specialized for us that other non-engineering students will probably never take. Thus, there isn't much information on what to expect in these engineering courses, other than the course code and name. This information is especially essential to know so you don't end up pairing difficult courses together. Even if you aren't in Software Engineering, I'm sure you'll find something valuable and informative here.
-                    </p>
-                    <p>
-                        I am hoping this to be a long-term project until I graduate, as I expand on more knowledge and advice I've accumulated over the years. Just a disclaimer, this is an <strong>unofficial guide</strong> by me, which is unaffiliated with York University. So expect the information here based on my own experiences 😀.
-                    </p>
-                    <p>Last updated: August 8, 2024</p>
                 </div>
+
+                <style>
+                    .form-group {
+                        --bs-gutter-x: 1.5rem;
+                        --bs-gutter-y: 0;
+                        padding-right: calc(var(--bs-gutter-x) * 0.5);
+                        padding-left: calc(var(--bs-gutter-x) * 0.5);
+                        margin-right: auto;
+                        margin-left: auto;                    
+                    }
+            
+                    .form-group label {
+                        display: block;
+                        margin-bottom: 0.5em;
+                    }
+            
+                    .form-group input,
+                    .form-group textarea {
+                        width: 50%;  /* Adjust the width as needed */
+                        padding: 0.5em;
+                        box-sizing: border-box;
+                    }
+            
+                    input[type="submit"] {
+                        padding: 0.5em 2em;
+                        margin-top: 1em;
+                    }
+                </style>
+                <title>Contact Form</title>
+            </head>
+            <body>
+            
+            <form method="post" name="contact_form" action="contact-form-handler.php">
+                <div class="form-group">
+                    <label for="name">Your Name:</label>
+                    <input type="text" name="name" id="name">
+                </div>
+                <div class="form-group">
+                    <label for="email">Email Address:</label>
+                    <input type="text" name="email" id="email">
+                </div>
+                <div class="form-group">
+                    <label for="message">Message:</label>
+                    <textarea name="message" id="message"></textarea>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Submit">
+                </div>
+            </form>
             </div>
         </div>
         <!-- Bootstrap core JS-->

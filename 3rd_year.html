@@ -1,2 +1,104 @@
-<h1>Did you really click on 3rd Year Courses when it said "under construction"? Sorry to disappoint but there is nothing
-    to see here (until then)! </h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <title>York SWE Edge</title>
+    <!-- Awesome Fonts-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <!-- Favicon-->
+    <link rel="icon" type="image/x-icon" href="./favicon.ico" />
+    <!-- Core theme CSS (includes Bootstrap)-->
+    <link href="css/styles.css" rel="stylesheet" />
+    <style>
+       .course-content {
+        display: none;
+        padding: 10px; /* Adds padding inside the box */
+        border: 1px solid #ddd; /* Adds a border around the box */
+        border-radius: 5px; /* Optional: adds rounded corners to the box */
+        background-color: #f9f9f9; /* Optional: adds a background color */
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: adds a shadow to the box */
+        max-width: 800px; /* Sets the maximum width of the box */
+        width: 100%; /* Ensures the box takes up full width up to max-width */
+       }
+
+        .arrow {
+        cursor: pointer;
+        display: inline-flex;
+        align-items: center;
+        padding: 10px; /* Add padding to give it a button-like appearance */
+        border-radius: 5px; /* Optional: adds rounded corners */
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Adds a shadow to make it look like a button */
+        transition: color 0.2s, box-shadow 0.2s; /* Smooth transition for color and shadow changes */
+    }
+
+        .arrow-icon {
+            margin-right: 5px;
+            transition: transform 0.2s;
+        }
+
+        .rotate-down {
+            transform: rotate(90deg);
+        }
+
+        .arrow:hover {
+            color: #007bff;
+        }
+
+        .mt-4 {
+            max-width: 800px; /* Sets the maximum width of the box */
+            width: 100%; /* Ensures the box takes up full width up to max-width */
+        }
+    </style>
+</head>
+<body>
+    <div class="d-flex" id="wrapper">
+        <!-- Sidebar-->
+        <div class="border-end bg-white" id="sidebar-wrapper">
+            <div class="sidebar-heading border-bottom bg-light">Menu</div>
+            <div class="list-group list-group-flush">
+                <a class="list-group-item list-group-item-action list-group-item-light p-3" href="index.html"><i class="fa fa-home" aria-hidden="true"></i> Home</a>
+                    <a class="list-group-item list-group-item-action list-group-item-light p-3" href="1st_year.html"><i class="fa-solid fa-square-root-variable"></i> 1st Year Courses</a>
+                    <a class="list-group-item list-group-item-action list-group-item-light p-3" href="2nd_year.html"><i class="fa-solid fa-laptop-code"></i></i> 2nd Year Courses</a>
+                    <a class="list-group-item list-group-item-action list-group-item-light p-3" href="3rd_year.html"><i class="fa-solid fa-microchip"></i> 3rd Year Courses (Coming Soon)</a>
+                    <a class="list-group-item list-group-item-action list-group-item-light p-3" href="faqs.html"><i class="fa fa-question-circle" aria-hidden="true"></i> FAQs</a>
+                    <a class="list-group-item list-group-item-action list-group-item-light p-3" href="resources.html"><i class="fa-solid fa-circle-info"></i> Resources</a>
+                    <a class="list-group-item list-group-item-action list-group-item-light p-3" href="feedback.html"><i class="fa-solid fa-comment"></i> Feedback</a>
+            </div>
+        </div>
+        <!-- Page content wrapper-->
+        <div id="page-content-wrapper">
+            <!-- Top navigation-->
+            <nav class="navbar navbar-expand-lg navbar-light bg-light border-bottom">
+                <div class="container-fluid">
+                    <button class="btn btn-primary" id="sidebarToggle"><i class="fas fa-bars"></i></button>
+                </div>                    
+            </nav>
+            <!-- Page content-->
+             <div class="container-fluid">
+                <h1 class="mt-4"
+                ><i class="fa-solid fa-circle-info"></i> Did you really click on 3rd Year 
+                Courses when it said "under construction"? Sorry to disappoint but there is nothing to see here (until then)! </h1>
+            </div>
+        </div>
+    </div>
+    <!-- Bootstrap core JS-->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Core theme JS-->
+    <script src="js/scripts.js"></script>
+    <script>
+        function toggleCourseContent(id, element) {
+            var content = document.getElementById(id);
+            if (content.style.display === "none") {
+                content.style.display = "block";
+                element.querySelector('.arrow-icon').classList.add('rotate-down');
+            } else {
+                content.style.display = "none";
+                element.querySelector('.arrow-icon').classList.remove('rotate-down');
+            }
+        }
+    </script>
+</body>
+</html>
