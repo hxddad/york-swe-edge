@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <title>York SWE Edge</title>
+    <!-- Awesome Fonts-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <!-- Favicon-->
+    <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+    <!-- Core theme CSS (includes Bootstrap)-->
+    <link href="css/styles.css" rel="stylesheet" />
+    <style>
+       .course-content {
+        display: none;
+        padding: 10px; /* Adds padding inside the box */
+        border: 1px solid #ddd; /* Adds a border around the box */
+        border-radius: 5px; /* Optional: adds rounded corners to the box */
+        background-color: #f9f9f9; /* Optional: adds a background color */
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: adds a shadow to the box */
+        max-width: 800px; /* Sets the maximum width of the box */
+        width: 100%; /* Ensures the box takes up full width up to max-width */
+       }
+
+        .arrow {
+        cursor: pointer;
+        display: inline-flex;
+        align-items: center;
+        padding: 10px; /* Add padding to give it a button-like appearance */
+        border-radius: 5px; /* Optional: adds rounded corners */
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Adds a shadow to make it look like a button */
+        transition: color 0.2s, box-shadow 0.2s; /* Smooth transition for color and shadow changes */
+    }
+
+        .arrow-icon {
+            margin-right: 5px;
+            transition: transform 0.2s;
+        }
+
+        .rotate-down {
+            transform: rotate(90deg);
+        }
+
+        .arrow:hover {
+            color: #007bff;
+        }
+
+        .mt-4 {
+            max-width: 800px; /* Sets the maximum width of the box */
+            width: 100%; /* Ensures the box takes up full width up to max-width */
+        }
+    </style>
+</head>
+<body>
+    <div class="d-flex" id="wrapper">
+        <!-- Sidebar-->
+        <div class="border-end bg-white" id="sidebar-wrapper">
+            <div class="sidebar-heading border-bottom bg-light">Menu</div>
+            <div class="list-group list-group-flush">
+                <a class="list-group-item list-group-item-action list-group-item-light p-3" href="index.html"><i class="fa fa-home" aria-hidden="true"></i> Home</a>
+                <a class="list-group-item list-group-item-action list-group-item-light p-3" href="1st_year.html"><i class="fa-solid fa-square-root-variable"></i> 1st Year Courses</a>
+                <a class="list-group-item list-group-item-action list-group-item-light p-3" href="2nd_year.html"><i class="fa-solid fa-laptop-code"></i> 2nd Year Courses</a>
+                <a class="list-group-item list-group-item-action list-group-item-light p-3" href="3rd_year.html"><i class="fa-solid fa-microchip"></i> 3rd Year Courses (Coming Soon)</a>
+                <a class="list-group-item list-group-item-action list-group-item-light p-3" href="faqs.html"><i class="fa fa-question-circle" aria-hidden="true"></i> FAQs</a>
+                <a class="list-group-item list-group-item-action list-group-item-light p-3" href="faqs.html"><i class="fa-solid fa-circle-info"></i> Resources</a>
+                <a class="list-group-item list-group-item-action list-group-item-light p-3" href="feedback.html"><i class="fa-solid fa-comment"></i> Feedback</a>
+            </div>
+        </div>
+        <!-- Page content wrapper-->
+        <div id="page-content-wrapper">
+            <!-- Top navigation-->
+            <nav class="navbar navbar-expand-lg navbar-light bg-light border-bottom">
+                <div class="container-fluid">
+                    <button class="btn btn-primary" id="sidebarToggle"><i class="fas fa-bars"></i></button>
+                </div>                    
+            </nav>
+            <!-- Page content-->
+            <div class="container-fluid">
+                <h1 class="mt-4"
+                ><i class="fa-solid fa-laptop-code"></i> 2nd Year Courses</h1>
+                <p>Congrats on surviving first year! First year might have been a breeze for some people, but second year will definitely humble 
+                   most people, as it happened to me. The majority of your classes will shared with Computer and Electrical Engineers, as they still
+                   have some more core courses to do. This will be a bumpy year so buckle up!</p>
+             
+                <h3 class="arrow" onclick="toggleCourseContent('eecs2030', this)"><i class="fa-solid fa-arrow-right arrow-icon"></i> EECS 2030 - Advanced OOP</h3>
+                <p id="eecs2030" class="course-content">
+                    This is the predecessor course for EECS 1021. You will touch on advanced (also very 
+                    important) OOP principles such as inheritance, polymorphism, aggregation and composition,
+                    shallow copy and deep copy, interfaces, abstract classes, etc. I would take this course
+                    ASAP because it unlocks many courses in 2nd year and beyond, that require EECS 2030 as 
+                    a prerequisite.
+                    <br/><br/>
+                    Difficulty: 6/10.                    
+                </p>
+                <br/><br/>
+
+
+                <h3 class="arrow" onclick="toggleCourseContent('eecs2021', this)"><i class="fa-solid fa-arrow-right arrow-icon"></i> EECS 2021 - Computer Organization</h3>
+                <p id="eecs2021" class="course-content">
+                    One of my favourite 2nd year courses. In this course, you will learn topics related to both hardware, such as gates, memory, and number systems (binary, octal, decimal, hexadecimal),
+                    and software, including operating systems, compilers, and assemblers, as well as their interfaces.
+                    You will also learn assembly programming, using RISC-V and hardware description languages like Verilog. Be warned that 
+                    this course is time consuming and I would recommend spending a good amount of time for this course. By the way, Verilog will
+                    come back in third year courses like EECS 3201 and EECS 3216 (though they will assume you know nothing), 
+                    so I would at least have an idea of the basics of Verilog.
+                    <br/><br/>
+                    Difficulty: 7/10.                    
+                </p>
+                <br/><br/>
+
+
+                <h3 class="arrow" onclick="toggleCourseContent('eecs2200', this)"><i class="fa-solid fa-arrow-right arrow-icon"></i>EECS 2200 - Electrial Circuits</h3>
+                <p id="eecs2200" class="course-content">
+                    I have never been so glad to pass a course and never have to retake ever again.
+                    This course is all about analyzing and solving electrical circuits, beyond what you learned in PHYS 1801. 
+                    I personally think this is the hardest course in second year, because you need to have a unique approach to solving circuit problems.
+                    You have to understand HOW a circuit works to be able to solve problems, rather than just throwing formulas all around and solving a 
+                    physics problem. Moreover, you have to master the basics of circuits: how voltage, current and resistance works, Kirchhoff's Laws,
+                    how to tell if resistors are in series, parallel or neither, etc. On the bright side, you can take this course later if you're in SE, because
+                    it's not a perquisite to anything (if you're in CE or EE, you need it for EECS 2210). This course is no surprise valuable for CE and EE, so I saw this
+                    course with little purpose for SE, but this would be how SE would be accredited by the CEAB. I highly recommend taking this course
+                    in the summer if you have time and get it over with. Learning ahead for this course would also be a good idea, here is a good 
+                    <a href='https://www.youtube.com/watch?v=ihPhIWOHMnU&list=PLaQGX-EC0rf7NZdD0sLqRY7CQtG5C_reD'>playlist</a> of videos covering
+                    topics of the course.
+                    <br/><br/>
+                    Difficulty: 10/10.                    
+                </p>
+                <br/><br/>
+
+
+                <h3 class="arrow" onclick="toggleCourseContent('math2015', this)"><i class="fa-solid fa-arrow-right arrow-icon"></i>MATH 2015 - Applied Multivariate & Vector Calculus</h3>
+                <p id="math2015" class="course-content">
+                    The final calculus course in SE. I found this to be significantly easier than integral calculus because of
+                    the heavy overlap between differential calculus, integral calculus and linear algebra. The transition from MATH 1014 is
+                    smoother than going from MATH 1013 to MATH 1014. However, you will have to know your linear
+                    algebra well from MATH 1025, since you will work in 3D or multi-dimensions. 
+                    <br/><br/>
+                    Difficulty: 6/10.                    
+                </p>
+                <br/><br/>
+
+
+                <h3 class="arrow" onclick="toggleCourseContent('phys2020', this)"><i class="fa-solid fa-arrow-right arrow-icon"></i> PHYS 2020 - Electricity & Magnetism</h3>
+                <p id="phys2020" class="course-content">
+                    The concepts are mostly the same from the E&M you learned in PHYS 1801. However, you will be solving slightly 
+                    more complex problems from PHYS 1801, sometimes with calculus along with learning some new content.      
+                    <br/><br/>
+                    Difficulty: 5/10.                    
+                </p>
+                <br/><br/>
+
+
+                <h3 class="arrow" onclick="toggleCourseContent('phys2211', this)"><i class="fa-solid fa-arrow-right arrow-icon"></i>PHYS 2211 - Experimental Magnetism</h3>
+                <p id="phys2211" class="course-content">
+                    This is supposed to be the lab component for PHYS 2020, but it's split into a single 1.0 credit course.
+                    The only work you have to do are prelab quizzes before the lab and the lab experiments in the lab. The experiments are similar to the 
+                    ones done in PHYS 1801 labs.    
+                    <br/><br/>
+                    Difficulty: 1/10.                    
+                </p>
+                <br/><br/>
+
+
+                <h3 class="arrow" onclick="toggleCourseContent('eecs2311', this)"><i class="fa-solid fa-arrow-right arrow-icon"></i>EECS 2311 - Software Development Project</h3>
+                <p id="eecs2311" class="course-content">
+                    You will be put into a group throughout the semester of this course, developing a software project
+                    mostly in Java and the stuff you learned from EECS 2030. Make sure you find a group that you they
+                    willing to do above the minimum. I also recommend learning Git, databases with SQL and using Github before taking this course,
+                    don't wait until the class covers them (I made this mistake). It also covers common and important SE practices in the industry like testing,
+                    code reviews, user stories, agile software development, etc. I wish I learned Git and databases ahead of time, I could've gotten a better grade 
+                    and learned a lot more.            
+                    <br/><br/>
+                    Difficulty: course difficultly depends on group as well, but typically should be 6/10.                    
+                </p>
+                <br/><br/>
+
+                <h3 class="arrow" onclick="toggleCourseContent('math1090', this)"><i class="fa-solid fa-arrow-right arrow-icon"></i>MATH 1090 - Introduction to Logic for Computer Science</h3>
+                <p id="math1090" class="course-content">
+                    Imagine if EECS 1028 is a bag of potato chips. Then you have this other bag of chips with a weird and unique flavor
+                    (like cucumber or whatever), that is MATH 1090. You will learn about boolean and first order logic in a completely new
+                    abstract syntax as opposed to EECS 1028. Keep in mind that it's also a unique course offered by York, so universities don't cover
+                    this particular course content (even other professors like to roast it or despise teaching it). Though the content in the course seem useless, it's however essential 
+                    to have a decent understanding of this course for third year courses like EECS 3342. Otherwise, I
+                    see it as a filler course for CE and CS students.
+                    <br/><br/>
+                    Difficulty: 5/10.                    
+                </p>
+                <br/><br/>
+
+                <h3 class="arrow" onclick="toggleCourseContent('eng2003', this)"><i class="fa-solid fa-arrow-right arrow-icon"></i>ENG 2003 - Effective Engineering Communication</h3>
+                <p id="eng2003" class="course-content">
+                    I took this course during the summer after my first year along with another course, 
+                    so I had fun taking this course. This is a communications course, which involves giving 
+                    pitches, presentations, interviews and writing communication through giving feedback, 
+                    a technical report, etc. Writing technical reports are common among mechanical, electrical, civil and electrical
+                    engineers. Pick a topic you're interested or passionate about for your technical report, so it can feel
+                    less tedious (my technical report was 20 pages long).
+                    <br/><br/>
+                    Difficulty: 4/10.                    
+                </p>
+                <br/><br/>
+
+
+                <h3 class="arrow" onclick="toggleCourseContent('esse2210', this)"><i class="fa-solid fa-arrow-right arrow-icon"></i>ESSE 2210 - Engineering & the Environment</h3>
+                <p id="esse2210" class="course-content">
+                    This course involves looking at environmental issues and advances such as climate change, global warming,
+                    pollution, green energy and technologies, the IPCC, etc. Note that this course may involve essay writting, which may
+                    depend on the professor. When I took the course, it was fully online including the tests, so I found it easy (the essays
+                    were the annoying part). Course difficultly may depend on the professor, so don't necessarily see this as a free course. 
+                    <br/><br/>
+                    Difficulty: 4/10.                    
+                </p>
+                <br/><br/>
+
+                <h3 class="arrow" onclick="toggleCourseContent('comingsoon', this)"><i class="fa-solid fa-arrow-right arrow-icon"></i>More Courses Coming Soon!</h3>
+                <p id="comingsoon" class="course-content">
+                    I have yet to take ENG 2001, EECS 2032 and EECS 2101. When I take any of these courses, I will update this page as soon as I can.                 
+                </p>
+                <br/><br/>
+
+            </div>
+        </div>
+    </div>
+    <!-- Bootstrap core JS-->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Core theme JS-->
+    <script src="js/scripts.js"></script>
+    <script>
+        function toggleCourseContent(id, element) {
+            var content = document.getElementById(id);
+            if (content.style.display === "none") {
+                content.style.display = "block";
+                element.querySelector('.arrow-icon').classList.add('rotate-down');
+            } else {
+                content.style.display = "none";
+                element.querySelector('.arrow-icon').classList.remove('rotate-down');
+            }
+        }
+    </script>
+</body>
+</html>

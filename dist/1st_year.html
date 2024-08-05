@@ -13,9 +13,16 @@
     <!-- Core theme CSS (includes Bootstrap)-->
     <link href="css/styles.css" rel="stylesheet" />
     <style>
-        .course-content {
-            display: none;
-        }
+       .course-content {
+        display: none;
+        padding: 10px; /* Adds padding inside the box */
+        border: 1px solid #ddd; /* Adds a border around the box */
+        border-radius: 5px; /* Optional: adds rounded corners to the box */
+        background-color: #f9f9f9; /* Optional: adds a background color */
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: adds a shadow to the box */
+        max-width: 800px; /* Sets the maximum width of the box */
+        width: 100%; /* Ensures the box takes up full width up to max-width */
+       }
 
         .arrow {
         cursor: pointer;
@@ -38,6 +45,11 @@
 
         .arrow:hover {
             color: #007bff;
+        }
+
+        .mt-4 {
+            max-width: 800px; /* Sets the maximum width of the box */
+            width: 100%; /* Ensures the box takes up full width up to max-width */
         }
     </style>
 </head>
@@ -66,7 +78,8 @@
             </nav>
             <!-- Page content-->
             <div class="container-fluid">
-                <h1 class="mt-4">First Year Courses</h1>
+                <h1 class="mt-4"
+                ><i class="fa-solid fa-square-root-variable"></i> 1st Year Courses</h1>
                 <p>If you are reading this and starting or completing your first year of Software Engineering, welcome aboard!
                     Your first year will contain classic and core engineering courses that are common across all engineering programs. 
                     The only difference though is that <strong>Software, Computer and Electrical Engineers</strong> have to take 
@@ -101,9 +114,9 @@
                 <h3 class="arrow" onclick="toggleCourseContent('math1013', this)"><i class="fa-solid fa-arrow-right arrow-icon"></i> MATH 1013 - Applied Calculus 1</h3>
                 <p id="math1013" class="course-content">
                     Behold your very first calculus course at university. This course
-                    touches on differential calculus, which is basically everything you 
-                    learned in calculus in high school in Ontario, with a few new topics
-                    and concepts you'll have to learn (including a little bit on 
+                    touches on differential calculus, which is basically review
+                    from high school calculus. Though, you may learn a few new topics
+                    and concepts (including a little bit on 
                     integrals in MATH1014). If you've taken AP or IB calculus, the course
                     shouldn't be difficult.
                     <br/><br/>
@@ -114,14 +127,12 @@
 
                 <h3 class="arrow" onclick="toggleCourseContent('math1025', this)"><i class="fa-solid fa-arrow-right arrow-icon"></i> MATH 1025 - Applied Linear Algebra</h3>
                 <p id="math1025" class="course-content">
-                    This will be your very first programming class in your undergraduate studies,
-                    with a programming language used by scientists and engineers called 
-                    MATLAB (short for Matrix Laboratory). This course also assumes you never programmed before. You may be asked
-                    to buy an Arduino Uno kit for the final project you'll be assigned
-                    at the end of the course. I personally have never used MATLAB after
-                    I finished this course. Despite that, if you've never coded before,
-                    I would advise you to learn the coding fundamentals (variables, scoping,
-                    loops, etc.) for future courses. 
+                    You will learn about and apply linear algebra concepts 
+                    such as matrices, vectors, linear transformations, 
+                    eigenvalues and eigenvectors, etc. It's a useful course
+                    if you want to go into Machine Learning. If you've done at least
+                    the vectors component from calculus and vectors (MCV4U) from 
+                    an Ontario high school, you should be fine.
                     <br/><br/>
                     Difficulty: 5/10.                    
                 </p>
@@ -131,7 +142,7 @@
                 <h3 class="arrow" onclick="toggleCourseContent('phys1800', this)"><i class="fa-solid fa-arrow-right arrow-icon"></i> PHYS 1800 - Engineering Mechanics</h3>
                 <p id="phys1800" class="course-content">
                     This first physics course you will be taking will mostly be
-                    review from grade 11 and 12 physics, since it mostly covers mechanics
+                    review high school physics, since it mostly covers mechanics
                     (kinematics, force, energy, etc.). You will also have a laboratory
                     component where you will work on experiments related to course content
                     that are worth your grade. Keep practicing physics problems and treat
@@ -144,12 +155,14 @@
 
                 <h3 class="arrow" onclick="toggleCourseContent('eng1102', this)"><i class="fa-solid fa-arrow-right arrow-icon"></i> ENG 1102 - Engineering Design Principles</h3>
                 <p id="eng1102" class="course-content">
-                    This first physics course you will be taking will mostly be
-                    review from grade 11 and 12 physics, since it mostly covers mechanics
-                    (kinematics, force, energy, etc.). You will also have a laboratory
-                    component where you will work on experiments related to course content
-                    that are worth your grade. Keep practicing physics problems and treat
-                    labs as free marks to get a decent grade.   
+                    This ENG course will be your first design course.
+                    Just as the course titles says, you'll be taught about
+                    engineering designs for solving problems through drawings, frameworks, models, aesthetics, etc.
+                    You may also be placed in a group to propose an engineering
+                    design as a potential solution for a current world or local problem.
+                    Make sure you are focusing on a technical design for a technical problem,
+                    rather than a social one. Just like ENG1101, straightforward 
+                    but time-consuming.  
                     <br/><br/>
                     Difficulty: 3/10.                    
                 </p>
@@ -162,8 +175,9 @@
                     the program. I mostly found this course to be easier than my grade
                     12 chemistry class, part of it due to having no organic chemistry.
                     This course requires practice and memorization to do well.
-                    You also will do chemistry lab experiments that account for your grades.
-                    The nice thing about this course is that you can take it anytime, since
+                    You also will do chemistry lab experiments involving
+                    titration, polymers, analyzing equilibriums and chemical reactions, 
+                    ferrofluids, and more. The nice thing about this course is that you can take it anytime, since
                     it's not a prerequisite to any mandatory future courses. If you are 
                     looking to do a lighter course load in your second semester of your
                     first year, CHEM 1100 is your pick to opt out for now. 
@@ -173,7 +187,7 @@
                     it may not be offered every semester or you forget most of your chemistry
                     from high school.   
                     <br/><br/>
-                    Difficulty: 5/10.                    
+                    Difficulty: 6/10.                    
                 </p>
                 <br/><br/>
 
@@ -203,7 +217,7 @@
                     through integral calculus with integration techniques, improper
                     integrals, sequences and series and power series. Practice problems
                     and master course concepts to do well, as you did previously in 
-                    math1013 for a decent grade.
+                    MATH 1013.
                     <br/><br/>
                     Difficulty: 7/10.                    
                 </p>
@@ -219,6 +233,8 @@
                     so it was a bit tricky for me to use it. Ask your TAs for help
                     if your breadboard isn't working the way it's supposed to after
                     tinkering with it for a while, so you don't burn time during your lab.
+                    Comparing the course content with PHYS 1800, I found this to be
+                    slightly easier.
                     <br/><br/>
                     Difficulty: 6/10.                    
                 </p>
@@ -243,7 +259,8 @@
                     taught from course notes and unavailable online to self-learn. I
                     however took the course in the summer where we used a regular
                     published discrete mathematics textbook, instead of foreign
-                    course notes.
+                    course notes. Here is a good <a href="https://www.youtube.com/playlist?list=PLl-gb0E4MII28GykmtuBXNUNoej-vY5Rz"
+                    target="_blank">playlist</a> to start learning the essential fundamentals of the course though. 
                     <br/><br/>
                     Difficulty: 8/10.                    
                 </p>
