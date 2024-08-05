@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <title>York SWE Edge</title>
+    <!-- Awesome Fonts-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <!-- Favicon-->
+    <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+    <!-- Core theme CSS (includes Bootstrap)-->
+    <link href="css/styles.css" rel="stylesheet" />
+    <style>
+       .course-content {
+        display: none;
+        padding: 10px; /* Adds padding inside the box */
+        border: 1px solid #ddd; /* Adds a border around the box */
+        border-radius: 5px; /* Optional: adds rounded corners to the box */
+        background-color: #f9f9f9; /* Optional: adds a background color */
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: adds a shadow to the box */
+        max-width: 800px; /* Sets the maximum width of the box */
+        width: 100%; /* Ensures the box takes up full width up to max-width */
+       }
+
+        .arrow {
+        cursor: pointer;
+        display: inline-flex;
+        align-items: center;
+        padding: 10px; /* Add padding to give it a button-like appearance */
+        border-radius: 5px; /* Optional: adds rounded corners */
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Adds a shadow to make it look like a button */
+        transition: color 0.2s, box-shadow 0.2s; /* Smooth transition for color and shadow changes */
+    }
+
+        .arrow-icon {
+            margin-right: 5px;
+            transition: transform 0.2s;
+        }
+
+        .rotate-down {
+            transform: rotate(90deg);
+        }
+
+        .arrow:hover {
+            color: #007bff;
+        }
+
+        .mt-4 {
+            max-width: 800px; /* Sets the maximum width of the box */
+            width: 100%; /* Ensures the box takes up full width up to max-width */
+        }
+    </style>
+</head>
+<body>
+    <div class="d-flex" id="wrapper">
+        <!-- Sidebar-->
+        <div class="border-end bg-white" id="sidebar-wrapper">
+            <div class="sidebar-heading border-bottom bg-light">Menu</div>
+            <div class="list-group list-group-flush">
+                <a class="list-group-item list-group-item-action list-group-item-light p-3" href="index.html"><i class="fa fa-home" aria-hidden="true"></i> Home</a>
+                <a class="list-group-item list-group-item-action list-group-item-light p-3" href="1st_year.html"><i class="fa-solid fa-square-root-variable"></i> 1st Year Courses</a>
+                <a class="list-group-item list-group-item-action list-group-item-light p-3" href="2nd_year.html"><i class="fa-solid fa-laptop-code"></i> 2nd Year Courses</a>
+                <a class="list-group-item list-group-item-action list-group-item-light p-3" href="3rd_year.html"><i class="fa-solid fa-microchip"></i> 3rd Year Courses (Coming Soon)</a>
+                <a class="list-group-item list-group-item-action list-group-item-light p-3" href="faqs.html"><i class="fa fa-question-circle" aria-hidden="true"></i> FAQs</a>
+                <a class="list-group-item list-group-item-action list-group-item-light p-3" href="faqs.html"><i class="fa-solid fa-circle-info"></i> Resources</a>
+                <a class="list-group-item list-group-item-action list-group-item-light p-3" href="feedback.html"><i class="fa-solid fa-comment"></i> Feedback</a>
+            </div>
+        </div>
+        <!-- Page content wrapper-->
+        <div id="page-content-wrapper">
+            <!-- Top navigation-->
+            <nav class="navbar navbar-expand-lg navbar-light bg-light border-bottom">
+                <div class="container-fluid">
+                    <button class="btn btn-primary" id="sidebarToggle"><i class="fas fa-bars"></i></button>
+                </div>                    
+            </nav>
+            <!-- Page content-->
+            <div class="container-fluid">
+                <h1 class="mt-4"
+                ><i class="fa fa-question-circle" aria-hidden="true"></i> Frequently Asked Questions (FAQs)</h1>
+                <br/><br/>
+                <h3 class="arrow" onclick="toggleCourseContent('stream', this)"><i class="fa-solid fa-arrow-right arrow-icon"></i>What is the difference between the General, Big Data and Security Streams?</h3>
+                <p id="stream" class="course-content">
+                <strong>General: </strong>  Unlike in Big Data and Security, you get to pick three EECS courses
+                of your choice (based on what your course checklist tells you), such as databases, 
+                machine learning, networks, digital and mobile communications, computer vision, computer security, etc. Don't let
+                the name fool you however, as there is a twist. You will have to take two other courses
+                (mostly irrelevant to SE) in return: Signals and Systems (EECS 3451) & Control Systems
+                (ENG 4550, or EECS 3452 if you entered your first year in the 2024-25 academic year). 
+                These courses are mostly applicable to niche subfields like communications, signal processing, etc. 
+                Plus, courses like EECS 3451 are known to by the CEAB to keep our program accredited. General stream gets
+                a bit of a bad reputation with quite difficult courses and you miss out on other cool EECS courses to take.
+                In my opinion, they should just rename this to the "Control Systems Stream", because EE students would take these same courses as you.
+                <br/><br/>
+                <strong>Big Data: </strong>  This is the juggernaut stream that people have their eyes on.
+                In my opinion for long-term learning, I think this is the best stream to get into. You take
+                some cool courses like Machine Learning, Data Mining, Big Data Systems, etc. It
+                is also includes a crucial course like databases (EECS 3421) that I think every developer should take. Heads up that these courses are also challenging and require
+                prerequisites from difficult courses like EECS 3101.
+                <br/><br/>
+                <strong>Security: </strong>  You take very specialized courses related to computer security such as networks, cryptography, forensics, computer security labs, etc.
+                This stream may not have the best courses compared to Big Data, however this is the easiest stream to complete your degree, especially 
+                since 3rd year courses tend to be intense. It's also a good stream if you want to graduate and get out. Don't limit 
+                your knowledge to just these courses if you want to get into cyber security, there is still many things to learn out there as well
+                certificates.
+                  
+                </p>
+                <br/><br/>
+
+                <h3 class="arrow" onclick="toggleCourseContent('csvsse', this)"><i class="fa-solid fa-arrow-right arrow-icon"></i>What is the difference between Software Engineering, Computer Engineering and Computer Science?</h3>
+                <p id="csvsse" class="course-content">
+                <b>Software Engineering</b>: The SE program at YorkU is quite interesting. It's 
+                worth noting that not many schools offer a BEng Software Engineering program,
+                which is often overshadowed by CE and EE. Sometimes, it's not even an accredited
+                program by the CEAB. For instance, the University of Guelph offers a "Bachelor of
+                Computing" in SE and CS. Ultimately, it's very different from SE at York, plus
+                most people resort to CS over SE at Guelph. When comparing to the SE and CE
+                curriculum at York, there is heavy overlap in courses up to 3rd year. CE take
+                more EE courses while SE in replacement take more SE (testing or project) courses.
+                So the way I see it, SE is basically a streamlined software version of CE/EE. 
+                Therefore, if you are interested in pursuing engineering (knowing
+                you will have to take some EE and ENG courses) and in software 
+                development, can't go wrong with SE. 
+                <br></br>
+                <b>Computer Engineering</b>: CE has a lot of balance with EE
+                and CS courses, which is great if you don't know weather you want to work with hardware or software. 
+                There are many people in CE who ended up working in the software industry though. So if your focus
+                is working with software, I would reconsider studying CE, unless if you have some
+                interest in EE or have no other options. Otherwise, CE is a fantastic choice.
+                <br></br>
+
+                <b>Computer Science</b>: CS at York offers courses that are more theoretical 
+                and less practical than SE (with obviously way less EE courses). The huge 
+                advantage CS has over SE and CE, is the lighter workload and huge flexibility.
+                You have more time for stuff outside your lectures without taking harder engineering
+                courses. I also have to mention CS is great to study if you intend to pursue
+                grad school, having an easier time maintaining your GPA as well as research
+                opportunities. Not only is it easier, there's less requirements and courses to do,
+                and thus inexpensive. You have SE/CE which requires about 150 credits to graduate
+                while in CS you need 120 credits to graduate (or 90 credits if you drop out of honours).  
+                People often forget that CS is a broad field, so you can 
+                work in many ares (with more time and flexibility of course) 
+                such as web development, mobile development, embedded and hardware development, ML, AI, game development, etc.
+                If an engineering title doesn't mean anything to you (like getting a P.Eng, 
+                the iron ring, etc.) and want to secure more Software Engineering internships, CS would be the
+                best here. 
+                <br></br>
+                One last thing to mention, although CS is clearly easier than engineering,
+                engineering degrees are invaluable and can tell people that you are
+                "smart" on paper. You have access to more jobs such as 
+                project management, finance and more. Holding an engineering degree 
+                will make travel visas much easier, since engineers are valuable 
+                to any country.
+                </p>
+                <br/><br/>
+
+
+
+            </div>
+        </div>
+    </div>
+    <!-- Bootstrap core JS-->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Core theme JS-->
+    <script src="js/scripts.js"></script>
+    <script>
+        function toggleCourseContent(id, element) {
+            var content = document.getElementById(id);
+            if (content.style.display === "none") {
+                content.style.display = "block";
+                element.querySelector('.arrow-icon').classList.add('rotate-down');
+            } else {
+                content.style.display = "none";
+                element.querySelector('.arrow-icon').classList.remove('rotate-down');
+            }
+        }
+    </script>
+</body>
+</html>
