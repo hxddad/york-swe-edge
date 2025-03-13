@@ -64,7 +64,7 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/cs-hub-logo.jpg',
+    image: 'img/bergeron.jpg',
     navbar: {
       title: 'York SWE Edge',
       logo: {
