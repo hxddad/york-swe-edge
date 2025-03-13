@@ -35,7 +35,7 @@ The embedded systems part of the course is just programming a microcontroller us
 ## EECS 2021 - Computer Organization
 One of my favourite 2nd year courses. In this course, you will learn topics related to both hardware, such as gates, memory, and number systems (binary, octal, decimal, hexadecimal), cache, pipelining. You will also learn assembly programming, using RISC-V and hardware description languages like Verilog. It's a vital course if you want to look into fields like embedded systems, firmware design, FPGAs, etc.
 
-Be warned that this course is time-consuming, and I would recommend spending a good amount of time for this course. Verilog will come back in third-year courses like [EECS 3201](/courses/3rd-year#eecs-3201) and [EECS 3216](/courses/4rd-year#eecs-3216) (though they will assume you know nothing), so I would at least have an idea of the basics of Verilog. Verilog is important to learn for Electrical and Computer Engineers, and less applicable for Software Engineers unless if you want to invest yourself in hardware.
+Be warned that this course is time-consuming, and I would recommend spending a good amount of time for this course. Verilog will come back in third-year courses like [EECS 3201](/courses/3rd-year#eecs-3201) and EECS 3216 (though they will assume you know nothing), so I would at least have an idea of the basics of Verilog. Verilog is important to learn for Electrical and Computer Engineers, and less applicable for Software Engineers unless if you want to invest yourself in hardware.
 
 ---
 
