@@ -67,10 +67,6 @@ const config: Config = {
     image: 'img/bergeron.jpg',
     navbar: {
       title: 'York SWE Edge',
-      logo: {
-        alt: 'Site Logo',
-        src: 'img/cs-hub-logo.jpg',
-      },
     },
     footer: {
       style: 'dark',
