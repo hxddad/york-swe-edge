@@ -12,12 +12,12 @@ const config: Config = {
   url: 'https://hxddad.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/york-swe-edge/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'hxddad', // Usually your GitHub org/user name.
-  projectName: 'hxddad.github.io', // Usually your repo name.
+  projectName: 'york-swe-edge', // Usually your repo name.
   trailingSlash: false,
   
   onBrokenLinks: 'throw',
