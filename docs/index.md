@@ -19,7 +19,27 @@ I am hoping this to be a long-term project until I graduate, as I expand on more
 
 ## Course Rating Criteria
 
-I want to add an important note that I'm rating course difficulty based on **how hard course content is grasped and workload**. Professors run classes differently, so a manageable class might be harder than it needs to be when they coordinate it (the opposite is also true).
+To make things simple, I'm going to rank classes based on this [video](https://www.youtube.com/watch?v=LgA7uIiMNIg) by Tamer Shaheen, who ranks his mechanical engineering classes based on these four questions:
+
+- How difficult is the course material?
+- How heavy is the workload?
+- How hard are the exams?
+- How useful is it for future classes and the real-world?
+
+I will go in detail into answering these questions on my course pages.
+
+I also want to add an important note that I will **NOT** be rating classes based on **how tough the professors are**. Professors run classes differently, so a manageable class might be harder than it needs to be when they coordinate it (the opposite is also true).
+
+Next, I'll categorize these answers using the following:
+
+- S-tier: Very useful, doesn't matter how difficult the class is.
+- A-tier: Useful in general and easy.
+- B-tier: Useful for specific fields, but takes effort.
+- C-tier: Useless but nice to know, also easy.
+- D-tier: Useless but nice to know, takes effort.
+- F-tier: Very Useless and difficult that makes you cry.  
+
+## GitHub Repo
 
 If you find this guide helpful, consider starring it on [GitHub](https://github.com/hxddad/york-swe-edge)!  
 
