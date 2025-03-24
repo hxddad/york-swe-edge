@@ -32,12 +32,14 @@ I also want to add an important note that I will **NOT** be rating classes based
 
 Next, I'll categorize these answers using the following:
 
-- S-tier: Very useful, doesn't matter how difficult the class is.
-- A-tier: Useful in general and easy.
-- B-tier: Useful for specific fields, but takes effort.
+- S-tier: Very useful, ignoring difficulty.
+- A-tier: Useful and easy.
+- B-tier: Useful but takes effort.
 - C-tier: Useless but nice to know, also easy.
 - D-tier: Useless but nice to know, takes effort.
 - F-tier: Very Useless and difficult that makes you cry.  
+
+My tiers list is based on my experience and opinion, so take it with a grain of salt! This list assumes a student who graduated from an Ontario high school, having completed the required high school classes (Advanced Functions, Calculus & Vectors, 4U Physics, Chemistry and English) and know basic coding. I did this because most engineering students are domestic with the knowledge of the province's educational curriculum. Moreover, some students come from various educational backgrounds, so it's inefficient to rank these classes based on everybody. For instance, if you came from an Ontario high school, then you probably have taken MCV4U (Calculus & Vectors), which does not cover integral calculus. However, there are those who come from abroad and have taken integral calculus in high school.
 
 ## GitHub Repo
 
