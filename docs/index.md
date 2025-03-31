@@ -38,7 +38,7 @@ Next, I'll categorize these classes using the following:
 - D-tier: Nice to know but not worth your time, just grasp the foundations.
 - F-tier: Useless and hard that makes you cry.
 
-My tiers list is based on my experience and opinion, so take it with a grain of salt! This list assumes a student who graduated from an Ontario high school, having completed the required high school classes (Advanced Functions, Calculus & Vectors, 4U Physics, Chemistry and English) and know basic coding. 
+My tier list is based on my experience and opinion, so take it with a grain of salt! This list assumes a student who graduated from an Ontario high school, having completed the required high school classes (Advanced Functions, Calculus & Vectors, 4U Physics, Chemistry and English) and know basic coding. 
 
 I did this because most engineering students are domestic with the knowledge of the province's educational curriculum. Moreover, some students come from various educational backgrounds, so it's inefficient to rank these classes based on everybody. 
 
@@ -49,4 +49,4 @@ For instance, if you came from an Ontario high school, then you probably have ta
 
 If you find this guide helpful, consider starring it on [GitHub](https://github.com/hxddad/york-swe-edge)!  
 
-**Last updated: March 13, 2025**
+**Last updated: March 31, 2025**
