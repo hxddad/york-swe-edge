@@ -1,5 +1,5 @@
 # Third year
-Note this page is still unfinished, as I'm currently taking 3rd Year classes.
+Note this page is still unfinished! As of April 2025, I'm currently taking my 3rd year classes for the winter semester. Below are some 3rd year courses I finished in the past.
 
 ---
 
@@ -7,8 +7,6 @@ Note this page is still unfinished, as I'm currently taking 3rd Year classes.
 
 EECS 3101 is heavy in theory and uses mathematical proofs. It covers proving loop invariants, complexities, Greedy, Divide-and-Conquer, Minimum Spanning Trees, and Dynamic Programming. These algorithms would mostly be asked in big tech company online assignments and interviews. Just as in EECS 2101, LeetCode would help a bunch in grasping these complicated concepts. Again, this course is also about proving algorithms plus writing them, so this is definitely one of the harder courses in the 3rd year.
 
-
----
 
 ## EECS 3201 - Digital Logic Design
 
@@ -19,7 +17,6 @@ This was personally one of my least favorite courses because it was pretty borin
 Like EECS 2021, this course is important for people who want to go into embedded systems and FPGA development; otherwise, it's pretty useless.
 
 
----
 
 ## ESSE 2210 - Engineering & the Environment
 
