@@ -3,7 +3,7 @@ sidebar_position: 3
 ---
 
 
-# Second Year 
+# 2nd Year 
 
 This tier list assumes you passed all classes and applying the knowledge you learned from first year.
 

@@ -11,23 +11,27 @@ const sidebars: SidebarsConfig = {
       id: 'faq',  
     },
     {
+      type: 'doc',
+      id: 'advice_tips', 
+    },
+    {
       type: 'category',
       label: 'Courses', 
       items: [
         {
           type: 'doc',
           id: 'courses/1st-year', 
-          label: 'First Year', 
+          label: '1st Year', 
         },
         {
           type: 'doc',
           id: 'courses/2nd-year', 
-          label: 'Second Year', 
+          label: '2nd Year', 
         },
         {
           type: 'doc',
           id: 'courses/3rd-year', 
-          label: 'Third Year', 
+          label: '3rd Year', 
         }
       
       ],
