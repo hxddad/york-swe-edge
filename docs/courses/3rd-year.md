@@ -5,9 +5,18 @@ sidebar_position: 3
 
 # 3rd Year 
 
-As usual, this tier list assumes you passed all classes and applying the knowledge you learned from third year.
+As usual, this tier list assumes you passed all classes and applying the knowledge you learned from your 2nd year. Note at this point you will chose your [SWE Stream](https://hxddad.github.io/york-swe-edge/faq#what-swe-stream-should-i-do), I will be discussing the **Security Stream** courses here since I chose it: EECS 3482 and EECS 3214. 
 
-![Example Image](../../static/img/2nd-yr-tier-lst.png)
+So I have no information (yet) on the following:
+
+- EECS 3421 - Introduction to Database Systems (Big Data Stream, not to be confused with EECS 3214)
+- EECS 3451 - Signals & Systems (General Stream)
+
+<div align="center">
+
+![3rd year courses](../../static/img/3rd-yr-classes.png)
+
+</div>
 
 ---
 ## S-Tier
