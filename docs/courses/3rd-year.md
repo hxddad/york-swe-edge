@@ -5,6 +5,8 @@ sidebar_position: 3
 
 # 3rd Year 
 
+**NOTE: THIS PAGE IS STILL UNDER CONSTRUCTION**
+
 As usual, this tier list assumes you passed all classes and applying the knowledge you learned from your 2nd year. Note at this point you will chose your [SWE Stream](https://hxddad.github.io/york-swe-edge/faq#what-swe-stream-should-i-do), I will be discussing the **Security Stream** courses here since I chose it: EECS 3482 and EECS 3214. 
 
 So I have no information (yet) on the following:
