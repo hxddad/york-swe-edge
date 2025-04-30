@@ -7,7 +7,7 @@ sidebar_position: 3
 
 This tier list assumes you passed all classes and applying the knowledge you learned from first year.
 
-![Example Image](../../static/img/2nd-yr-tier-lst.png)
+![Example Image](../../static/img/2nd-yr-classes.png)
 
 ---
 ## S-Tier
