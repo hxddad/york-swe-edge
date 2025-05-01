@@ -4,7 +4,7 @@ sidebar_position: 2
 # 1st Year 
 Your first year will contain core classes that you will have to take to satisfy pre-requisites for second year courses. Notice how there is no F tier? That is because again, many your first year classes will be needed as prerequisites to upper year classes. Moreover, you have already have some background from high school which lightens the difficulty (see [here](http://localhost:3000/york-swe-edge/#course-rating-criteria) for more context).
 
-![First Year Tier List](../../static/img/1st-yr-tier-lst.png)
+![First Year Tier List](../../static/img/1st-yr-classes.png)
 
 ---
 
