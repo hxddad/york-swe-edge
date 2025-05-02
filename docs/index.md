@@ -13,7 +13,7 @@ Hey there! I'm Yazan and I'm a 3rd year Software Engineering student at Lassonde
 
 ## Why Did I Make This?
 
-Engineering has a LOT of courses you will take, including courses specialized for us that other non-engineering students will probably never take. Thus, there isn't much information on what to expect in these classes, other than the course code and name. This information is especially essential to know so you don't end up pairing difficult courses together. 
+Engineering has an overwhelming number of courses you will take, including courses specialized for us that other non-engineering students will probably never take. Thus, there isn't much information on what to expect in these classes, other than the course code and name. This information is especially essential to know so you don't end up pairing difficult courses together. 
 
 I am hoping this to be a long-term project until I graduate, as I expand on more knowledge and advice I've accumulated over the years. Just a disclaimer, this is an unofficial guide by me, which is unaffiliated with York University. So, expect the information here to be based on my own experiences.
 
@@ -21,10 +21,10 @@ I am hoping this to be a long-term project until I graduate, as I expand on more
 
 I'm going to rank classes similarly to this [video](https://www.youtube.com/watch?v=LgA7uIiMNIg) by Tamer Shaheen, who ranks his mechanical engineering classes in a tier list. Similarly to his video, I will ask these four questions:
 
-- How difficult is it to grasp the course content?
-- How is the workload?
-- Do you need to know the material for future classes?
-- Is it useful in the real world?
+1. How difficult is it to grasp the course content?
+2. How is the workload?
+3. Do you need to know the material for future classes?
+4. Is it useful in the real world?
 
 
 I also want to add an important note that I will **NOT** be rating classes based on **how tough the professors are**. Professors run classes differently, so a manageable class might be harder than it needs to be (the opposite is also true).
@@ -33,10 +33,10 @@ Next, I'll categorize these classes using the following:
 
 - S-tier: Essential in the real world, ignoring difficulty.
 - A-tier: Useful and doable.
-- B-tier: Difficult, but worth understanding.
-- C-tier: Somewhat useless but doable.
+- B-tier: Difficult, but worth the effort of learning.
+- C-tier: Not very useful but doable.
 - D-tier: Nice to know but not worth your time, just grasp the foundations.
-- F-tier: Useless and hard that makes you cry.
+- F-tier: Difficult and completely useless.
 
 My tier list is based on my experience and opinion, so take it with a grain of salt! This list assumes a student who graduated from an Ontario high school, having completed the required high school classes (Advanced Functions, Calculus & Vectors, 4U Physics, Chemistry and English) and know basic coding. 
 
@@ -49,4 +49,4 @@ For instance, if you came from an Ontario high school, then you probably have ta
 
 If you find this guide helpful, consider starring it on [GitHub](https://github.com/hxddad/york-swe-edge)!  
 
-**Last updated: March 31, 2025**
+**Last updated: May 2, 2025**
