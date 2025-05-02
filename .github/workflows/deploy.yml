@@ -3,8 +3,8 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main  # Change if your default branch is different
-  workflow_dispatch:  # Allows manual triggering
+      - main  
+  workflow_dispatch:  
 
 permissions:
   contents: read
@@ -21,32 +21,26 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Setup Node.js
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 20.x
-          cache: 'npm'  # Change to 'npm' if using npm
+          cache: 'npm'  
 
-      # Install dependencies
       - name: Install dependencies
         run: yarn install --frozen-lockfile
 
-      # Build the project
       - name: Build project
-        run: yarn build  # Ensure it outputs to `build` directory
+        run: yarn build  
 
-      # Setup GitHub Pages
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
-      # Upload built files
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: build  # Ensure `yarn build` outputs here
+          path: build  
 
-      # Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
