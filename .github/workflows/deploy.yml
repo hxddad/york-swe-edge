@@ -31,9 +31,6 @@ jobs:
         run: yarn install --frozen-lockfile
 
       - name: Build project
-        env:
-          DOCUSAURUS_CONTAINER_ID: ${{ secrets.DOCUSAURUS_CONTAINER_ID }}
-          # DOCUSAURUS_GTAG_ID: ${{ secrets.DOCUSAURUS_GTAG_ID }}
         run: yarn build  
 
       - name: Setup Pages

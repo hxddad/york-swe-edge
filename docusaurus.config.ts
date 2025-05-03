@@ -58,13 +58,6 @@ const config: Config = {
         theme: {
           customCss: './src/css/custom.css',
         },
-        googleTagManager: {
-          containerId: process.env.DOCUSAURUS_CONTAINER_ID
-        },
-        // gtag: {
-        //   trackingID: process.env.DOCUSAURUS_GTAG_ID,  
-        //   anonymizeIP: true, 
-        // }
       } satisfies Preset.Options,
     ],
   ],
