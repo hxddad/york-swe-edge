@@ -60,6 +60,10 @@ const config: Config = {
         },
         googleTagManager: {
           containerId: process.env.CONTAINER_ID
+        },
+        gtag: {
+          trackingID: process.env.GTAG_ID,  
+          anonymizeIP: true, 
         }
       } satisfies Preset.Options,
     ],
