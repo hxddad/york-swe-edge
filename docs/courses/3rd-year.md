@@ -39,12 +39,6 @@ EECS 3101 is heavy in theory and uses mathematical proofs. It covers proving loo
 ### EECS 3482 - Introduction To Computer Security
 [Coming soon...]
 
-### ESSE 2210 - Engineering & The Environment
-
-Nope, not EECS, it's ESSE (Earth and Space Science and Engineering). This course involves looking at environmental issues and advances such as climate change, global warming, pollution, green energy and technologies, the IPCC, etc. Note that this course may involve essay writing, which may depend on the professor.  
-
-When I took the course, it was fully online, including the tests, so I found it easy (the essays were the annoying part). Course difficulty may depend on the professor, so don't necessarily see this as a free course.
-
 ---
 
 ## B-Tier
