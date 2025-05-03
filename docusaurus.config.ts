@@ -1,11 +1,8 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
-import * as dotenv from "dotenv";
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
-
-dotenv.config({ path: __dirname+'/.env' });
 
 const config: Config = {
   title: 'York SWE Edge',
@@ -62,12 +59,12 @@ const config: Config = {
           customCss: './src/css/custom.css',
         },
         googleTagManager: {
-          containerId: process.env.CONTAINER_ID
+          containerId: process.env.DOCUSAURUS_CONTAINER_ID
         },
-        // gtag: {
-        //   trackingID: process.env.GTAG_ID,  
-        //   anonymizeIP: true, 
-        // }
+        gtag: {
+          trackingID: process.env.DOCUSAURUS_GTAG_ID,  
+          anonymizeIP: true, 
+        }
       } satisfies Preset.Options,
     ],
   ],
