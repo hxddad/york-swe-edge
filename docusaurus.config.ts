@@ -117,6 +117,15 @@ const config: Config = {
       darkTheme: prismThemes.dracula,
     },
   } satisfies Preset.ThemeConfig,
+
+  scripts: [
+    {
+      src: 'https://cdn.counter.dev/script.js',
+      'data-id': process.env.COUNTER_ID,
+      'data-utcoffset': '-4',
+      async: true,
+    },
+  ],
 };
 
 export default config;
