@@ -61,10 +61,10 @@ const config: Config = {
         googleTagManager: {
           containerId: process.env.DOCUSAURUS_CONTAINER_ID
         },
-        gtag: {
-          trackingID: process.env.DOCUSAURUS_GTAG_ID,  
-          anonymizeIP: true, 
-        }
+        // gtag: {
+        //   trackingID: process.env.DOCUSAURUS_GTAG_ID,  
+        //   anonymizeIP: true, 
+        // }
       } satisfies Preset.Options,
     ],
   ],
