@@ -59,7 +59,7 @@ const config: Config = {
           customCss: './src/css/custom.css',
         },
         googleTagManager: {
-          containerId: 'GTM-T9ZVMPLX',
+          containerId: process.env.CONTAINER_ID
         },
         // gtag: {
         //   trackingID: process.env.GTAG_ID,  
