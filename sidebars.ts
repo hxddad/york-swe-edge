@@ -4,15 +4,11 @@ const sidebars: SidebarsConfig = {
   Sidebar: [
     {
       type: 'doc',
-      id: 'intro',  
+      id: 'home',  
     },
     {
       type: 'doc',
-      id: 'faq',  
-    },
-    {
-      type: 'doc',
-      id: 'advice_tips', 
+      id: 'advice_tips_faqs', 
     },
     {
       type: 'category',

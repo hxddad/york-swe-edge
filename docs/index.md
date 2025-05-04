@@ -1,11 +1,11 @@
 ---
 sidebar_position: 1
-id: intro
-title: Introduction
+id: home
+title: Home
 slug: /
 ---
 
-# Introduction  
+# Hello World!  
 
 
 ## What Is This Site's Purpose?
