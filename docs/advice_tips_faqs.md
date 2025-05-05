@@ -3,9 +3,19 @@ sidebar_position: 3
 id: advice_tips_faqs
 title: Advice, Tips & FAQs
 ---
-# Advice, Tips,& FAQs 
+# Advice, Tips, & FAQs 
 
-## What SWE Stream Should I Do?
+After every semester ends you have more than enough time to plan ahead. For instance, suppose I'm planning on what to take for the Fall-Winter 2025-26 year. My last exam in the Winter 2025 was on **April 24, 2025**. I have until **June 12, 2025** (which is my enrollment date) if I want to plan ahead. That's almost **1.5 months**!
+
+### Planning Ahead Using Visual Schedule Builder (VSB)
+
+York has a extremely reliable tool called [Visual Schedule Builder (VSB)](https://schedulebuilder.yorku.ca/) (only for York students with Passport York can access it) that provides a visual of what your schedule looks like based on the classes you choose. Play around with it to find your favoured schedule.
+
+Here's a pro tip: you can **bookmark** your schedule where you left off and come back when needed, since VSB doesn't save your selections and you have to manually enter them again. Based on the courses, times, sections, semesters and other options you chose, you generate a unique (and very long) URL that you can visit anytime. Here is a [sample link](https://schedulebuilder.yorku.ca/vsb/criteria.jsp?access=0&lang=en&tip=1&page=results&scratch=0&term=2024115117&sort=none&filters=iiiiiiii&bbs=013IJ&ds=6150-6210&cams=4&locs=any&course_0_0=LE-ENG-2001-3.00-EN-&sa_0_0=&cs_0_0=--20240831_H76P01-H76P02-&cpn_0_0=&csn_0_0=&ca_0_0=&dropdown_0_0=al&ig_0_0=0&rq_0_0=&course_1_0=SC-MATH-2015-3.00-EN-&sa_1_0=&cs_1_0=--20240831_K72J01--&cpn_1_0=&csn_1_0=&ca_1_0=&dropdown_1_0=al&ig_1_0=0&rq_1_0=) if you saved your selections when choosing summer courses.
+
+To avoid full classes or sections you plan on taking, enroll immediately after your enrollment time and date (don't leave it until the first week of school). You can find your enrollment date in your **[Student Web Services](https://apps7.sis.yorku.ca/Apps/WebObjects/SAM.woa/wa/DirectAction/sam) > My enrolment access times**, displaying dates and times when to enrol in fall/winter and summer courses. 
+
+## What SWE Stream should I do?
 
 In Software Engineering, you have to choose one of the three offered streams: General, Big Data and Security. You will  take the stream-specific classes in your 3rd and 4th year, so I'd say pick stream once you finished most of your 2nd year classes, so you'd get an idea on what to pursue.
 ### General
@@ -17,7 +27,7 @@ The flagship stream. With the whole AI race currently, this stream might be wort
 ### Security 
 This is the stream I took. You take very specialized courses related to computer security such as networks, cryptography, forensics, computer security labs, etc. In all honesty, I took this stream because it has the easier set of classes. This is so I have more time for finding Coops/Internships, graduate ASAP and making projects like this! Despite that, I found these classes to be pretty fun and interesting. If you want to get into your computer security, don't limit your knowledge to just these classes. There are still many things to do and learn out there as well (side projects, CTFs, penetration testing, etc). I recommend checking out this video by [NetworkChuck](https://www.youtube.com/watch?v=5xWnmUEi1Qw).
 
-## What Electives Should I Take?
+## What electives should I take?
 
 Firstly, if you are in 1st or 2nd year, I wouldn't worry about electives/complementary studies yet, finish your core courses first. If you've seen your program checklist, typically they'll usually state electives in 3rd or 4th year, so follow that (unless of course you need to raise your GPA or need a 2000-level course for your first coop work term).
 
@@ -27,18 +37,31 @@ There also exists courses that are known to be extremely light, even if the cour
 
 So my rule of thumb for electives is: interest ≥ difficulty! 
 
-## CHECK YOUR ENROLMENT DATE & PLAN EARLY
+## What summer courses should I take?
 
-I had to make the title in all capitals because I cannot stress this enough. Many students have trouble in getting in courses because they enroll last minute and sections or the course itself are full. 
+Note, this is **heavily dependant on your situation** on what to take, but here I'll offer some suggestions as a start to decide. 
 
-### Finding Your Enrollment Date
+### ENG Courses 
 
-You can find your enrollment date in your **[Student Web Services](https://apps7.sis.yorku.ca/Apps/WebObjects/SAM.woa/wa/DirectAction/sam) > My enrolment access times**, displaying dates and times when to enrol Fall-Winter and Summmer courses.
+If you are looking for summer classes, ENG courses are the ones I highly recommend for most people, which are: [ENG 2001](http://hxddad.github.io/york-swe-edge/courses/2nd-year#eng-2001-engineering-projects-management-economics-and-safety), [ENG 2003](http://hxddad.github.io/york-swe-edge/courses/2nd-year#eng-2003-effective-engineering-communication), and ENG 3000. ENG courses tend to be annoying (assignments, participation, etc.) when you have other classes that require high attention and investment. So, might as well get them done in the summer when you have more time. 
 
-After every semester ends you have more than enough time to plan ahead. For instance, suppose I'm planning on what to take for the Fall-Winter 2025-26 year. My last exam in the Winter 2025 was on **April 24, 2025**. I have until **June 12, 2025** (which is my enrollment date) if I want to plan ahead. That's almost **1.5 months**!
+### Electives
 
-### Planning Ahead Using Visual Schedule Builder (VSB)
+Electives are also great to take in the summer, especially if it's fully online. Like ENG courses, they might be in the way during the fall and winter semesters, so it's probably wise to take them in the summer. Unlike ENG classes, York has a vast pool of electives you can choose from, so your choices are extremely flexible. 
 
-York has a extremely reliable tool called [Visual Schedule Builder (VSB)](https://schedulebuilder.yorku.ca/) (only for York students with Passport York can access it) that provides a visual of what your schedule looks like based on the classes you choose. Play around with it to find your favoured schedule.
+To find online electives for the summer, you can go to the York **Courses Website**, then go to **eLearn Courses** on the left sidebar to filter any online electives.
 
-Here's a pro tip: you can **bookmark** your schedule where you left off and come back when needed, since VSB doesn't save your selections and you have to manually enter them again. Based on the courses, times, sections, semesters and other options you chose, you generate a unique (and very long) URL that you can visit anytime. Here is a [sample link](https://schedulebuilder.yorku.ca/vsb/criteria.jsp?access=0&lang=en&tip=1&page=results&scratch=0&term=2024115117&sort=none&filters=iiiiiiii&bbs=013IJ&ds=6150-6210&cams=4&locs=any&course_0_0=LE-ENG-2001-3.00-EN-&sa_0_0=&cs_0_0=--20240831_H76P01-H76P02-&cpn_0_0=&csn_0_0=&ca_0_0=&dropdown_0_0=al&ig_0_0=0&rq_0_0=&course_1_0=SC-MATH-2015-3.00-EN-&sa_1_0=&cs_1_0=--20240831_K72J01--&cpn_1_0=&csn_1_0=&ca_1_0=&dropdown_1_0=al&ig_1_0=0&rq_1_0=) if you saved your selections when choosing summer courses.
+### EECS & MATH Courses
+
+Summer EECS courses are a little tricky, there's no guarantee the EECS courses you want will be offered in the summer. Albeit from my experience, I have found this trend with summer EECS courses **(in no way this is factual information, take this with a grain of salt):**
+
+- Any **mandatory or elective** EECS courses that are taken by **both** Computer Science and Software/Computer Engineering students will also **likely** be offered in the summer, like EECS 2030, 2021, 2101, 3101, 3221, 3311 for mandatory classes and EECS 3214, 3421, 3461, 3421 for EECS electives.
+
+- Specialized courses that **only Software/Computer Engineers** take **or** if Software/Computer Engineers **outnumber** the **few Computer Science** students in the class, will **unlikely** be offered in the summer, like EECS 2311, 3342, 3201, 3216 and 3451.
+
+- Core Software/Computer Engineering courses in 1st and 2nd year are mostly offered in the summer (with some exceptions from the above point), less often for 3rd year and scarce for 4th year.
+
+For your own research, it's recommended that you look at the courses offered in the last summer term on [VSB](http://hxddad.io/york-swe-edge/advice_tips_faqs#planning-ahead-using-visual-schedule-builder-vsb) to have an idea on what could be taken in the next summer term.
+
+MATH courses are also a good option to take, they can lighten the workload during the academic year. Some of them are [MATH/EECS 1028](http://hxddad.io/york-swe-edge/courses/1st-year#eecs-1028-discrete-mathematics-for-engineers), [MATH 1090](http://hxddad.io/york-swe-edge/courses/2nd-year#math-1090-introduction-to-logic-for-computer-science), [MATH 2930](http://hxddad.io/york-swe-edge/courses/2nd-year#math-2930-introduction-to-probability--statistics), [MATH 2015](http://hxddad.io/york-swe-edge/courses/2nd-year#math-2015-applied-multivariate--vector-calculus).
+
