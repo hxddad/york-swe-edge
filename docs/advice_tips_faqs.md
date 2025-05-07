@@ -5,8 +5,6 @@ title: Advice, Tips & FAQs
 ---
 # Advice, Tips, & FAQs 
 
-After every semester ends you have more than enough time to plan ahead. For instance, suppose I'm planning on what to take for the Fall-Winter 2025-26 year. My last exam in the Winter 2025 was on **April 24, 2025**. I have until **June 12, 2025** (which is my enrollment date) if I want to plan ahead. That's almost **1.5 months**!
-
 ### Planning Ahead Using Visual Schedule Builder (VSB)
 
 York has a extremely reliable tool called [Visual Schedule Builder (VSB)](https://schedulebuilder.yorku.ca/) (only for York students with Passport York can access it) that provides a visual of what your schedule looks like based on the classes you choose. Play around with it to find your favoured schedule.
@@ -65,3 +63,7 @@ For your own research, it's recommended that you look at the courses offered in 
 
 MATH courses are also a good option to take, they can lighten the workload during the academic year. Some of them are [MATH/EECS 1028](http://hxddad.io/york-swe-edge/courses/1st-year#eecs-1028-discrete-mathematics-for-engineers), [MATH 1090](http://hxddad.io/york-swe-edge/courses/2nd-year#math-1090-introduction-to-logic-for-computer-science), [MATH 2930](http://hxddad.io/york-swe-edge/courses/2nd-year#math-2930-introduction-to-probability--statistics), [MATH 2015](http://hxddad.io/york-swe-edge/courses/2nd-year#math-2015-applied-multivariate--vector-calculus).
 
+
+## Why am I taking all these useless courses?
+
+I used to complain about this all the time (honestly, sometimes I still do). The root cause of this is the [CEAB (Canadian Engineering Accreditation Board)](https://engineerscanada.ca/accreditation/accreditation-board). This is ensure Canada’s engineering education system remains amongst the best in the world (which is from their page, that you can read further). Without our accreditation, our engineering degree would be as useful as toilet paper. This is one of the sacrifices of doing an engineering degree over anything else, even if it means doing electrical circuits in software engineering.
