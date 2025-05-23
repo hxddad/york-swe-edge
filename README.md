@@ -1,41 +1,71 @@
-# Website
+# York SWE Edge
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+A personal guide and resource hub for Software Engineering students at York University, built with [Docusaurus](https://docusaurus.io/). This is also helpful for Computer Science, Computer Security, Computer Engineering and Electrical Engineering students.
+
+## 📚 About
+
+**York SWE Edge** is a student-driven project aimed at helping Software Engineering students navigate their degree. It covers:
+
+- Course advice and tier lists for 1st, 2nd, and 3rd year
+- Tips, FAQs, and planning resources
+- Stream selection guidance (General, Big Data, Security)
+- Elective and summer course recommendations
+- Personal experiences and insights
+
+> This project is unaffiliated with York University and is based on personal experience.
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) v18 or higher
+- [npm](https://www.npmjs.com/) (comes with Node.js)
 
 ### Installation
 
-```
-$ yarn
+```sh
+npm install
 ```
 
 ### Local Development
 
-```
-$ yarn start
+```sh
+npm start
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+Open [http://localhost:3000](http://localhost:3000) to view the site.
 
 ### Build
 
+```sh
+npm run build
 ```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
 ### Deployment
 
-Using SSH:
+This site is automatically deployed to GitHub Pages via [GitHub Actions](.github/workflows/deploy.yml).
 
-```
-$ USE_SSH=true yarn deploy
-```
+To deploy manually:
 
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
+```sh
+npm run deploy
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+## 🗂️ Project Structure
+
+- `docs/` — Main documentation content (courses, advice, etc.)
+- `src/` — Custom React components and theme overrides
+- `static/` — Static assets (images, .nojekyll)
+- `docusaurus.config.ts` — Docusaurus site configuration
+
+## ✨ Contributing
+
+Contributions, suggestions, and corrections are welcome! Please open an issue or pull request.
+
+## ⭐️ Show Your Support
+
+If you found this guide helpful, consider starring the [GitHub repo](https://github.com/hxddad/york-swe-edge)!
+
+---
+
+Made with ❤️ by [Yazan (hxddad)](https://github.com/hxddad)
