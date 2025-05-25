@@ -4,11 +4,11 @@ sidebar_position: 2
 # 1st Year 
 Your first year will contain core classes that you will have to take to satisfy pre-requisites for second year courses. Notice how there is no F tier? That is because again, many your first year classes will be needed as prerequisites to upper year classes. Moreover, you have already have some background from high school which lightens the difficulty (see [here](http://localhost:3000/york-swe-edge/#course-rating-criteria) for more context).
 
-![First Year Tier List](../../static/img/1st-yr-classes.png)
+![1st-yr-list](../../static/img/1st-yr-classes.png)
 
 ---
 
-## S-Tier
+## 😎 S-Tier
 
 ### EECS 1021: OOP from Sensors to Actuators in Java
 This is the same premise as EECS 1011, but you will be learning and using the Java programming language along with OOP (Object-Oriented Programming) principles, so take this course religiously.  
@@ -17,7 +17,7 @@ Know the Java syntax and OOP well, it will come in handy for future programming 
 
 ---
 
-## A-Tier
+## 🙂 A-Tier
 
 ### EECS 1011: Computational Thinking Through Mechatronics with MATLAB 
 This will be your first programming class in engineering, with a C-like programming language used by scientists and engineers called MATLAB (short for Matrix Laboratory). MATLAB is also used for machine learning applications, like Python, and can be powerful, however, it costs money. MATLAB is also used for engineering jobs for simulation and testing.  
@@ -39,7 +39,7 @@ This will be your first ever ENG course, which will cover (obviously as the cour
 
 ---
 
-## B-Tier
+## 🤔 B-Tier
 
 ### EECS 1028: Discrete Mathematics for Engineers 
 Let me introduce you to the most infamous course for every first-year EECS engineering student. The primary reason this is difficult is that it's different from the computational or mindless plug-n-chug classes you've been doing previously.  
@@ -65,7 +65,7 @@ Comparing the course content with PHYS 1800, I found this more interesting.
 
 ---
 
-## C-Tier
+## 😒 C-Tier
 
 ### PHYS 1800: Engineering Mechanics 
 
@@ -79,7 +79,7 @@ This ENG course will be your first design course. Just as the course title says,
 You may also be placed in a group to propose an engineering design as a potential solution for a current world or local problem. Make sure you are focusing on a design for a technical problem, rather than a social problem. Just like ENG 1101, straightforward class.  
 
 ---
-## D-Tier
+## 😢 D-Tier
 
 ### CHEM 1100: Chemistry & Materials Science   
 This is your first (and probably last) chemistry course. I mostly found this course to be easier than my grade 12 chemistry class, partly due to having no organic chemistry. This course requires practice and memorization to do well.  

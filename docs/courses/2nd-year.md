@@ -7,10 +7,10 @@ sidebar_position: 3
 
 This tier list assumes you passed all classes and applying the knowledge you learned from first year.
 
-![Example Image](../../static/img/2nd-yr-classes.png)
+![2nd-yr-classes](../../static/img/2nd-yr-classes.png)
 
 ---
-## S-Tier
+## 😎 S-Tier
 
 ### EECS 2030: Advanced OOP 
 This is the predecessor course for EECS 1021. You will touch on advanced (also very important) OOP principles such as inheritance, polymorphism, aggregation and composition, shallow copy and deep copy, interfaces, abstract classes, etc. I would take this course ASAP because it unlocks many courses in 2nd year and beyond, that require EECS 2030 as a prerequisite.
@@ -34,7 +34,7 @@ Writing technical reports are common among mechanical, electrical, civil and ele
 This class was also the reason I created my LinkedIn page, which I highly recommend to create an account to look for jobs and build a network.
 
 ---
-## A-Tier
+## 🙂 A-Tier
 
 ### MATH 2930: Introduction to Probability & Statistics 
 **Disclaimer:** I did not take this course, but I did take an equivalent course to this at another university. This will be one of the easier math courses to take in your degree. If you've taken Data Management in an Ontario high school, this course should be easy; otherwise, it's not bad. This course is useful if you plan on doing ML and Big Data courses, as they rely heavily on statistics.
@@ -46,7 +46,7 @@ Understanding economics and how the market works is worthwhile as someone job hu
 
 ---
 
-## B-Tier
+## 🤔 B-Tier
 
 ### EECS 2021: Computer Organization 
 One of my favourite 2nd year courses. In this course, you will learn topics related to both hardware, such as gates, memory, and number systems (binary, octal, decimal, hexadecimal), cache, pipelining. You will also learn assembly programming, using RISC-V and hardware description languages like Verilog. It's a vital course if you want to look into fields like embedded systems, firmware design, FPGAs, etc.
@@ -66,7 +66,8 @@ The final calculus course. I found this to be significantly easier than integral
 90% of the course is differential and integral calculus in multiple dimensions, which also involves some linear algebra. The last 10% of the class is vector calculus (which some consider as Calculus 4), which includes topics like Green's Theorem, Curl, Divergence Theorem, etc.
 
 ---
-## C-Tier
+## 😒 C-Tier
+
 ### MATH 1090: Introduction to Logic for Computer Science 
 Imagine if EECS 1028 (or EECS 1019) is a bag of potato chips. Then you have this other bag of chips with a weird and unique flavor (like shrimp), that is MATH 1090. You will learn about boolean and first-order logic in a completely new abstract syntax as opposed to EECS 1028. 
 
@@ -77,7 +78,7 @@ This is supposed to be the lab component for PHYS 2020 (similar to PHYS 1801), b
 
 ---
 
-## F-Tier
+## 😭 F-Tier
 
 ### EECS 2200: Electrical Circuits 
 I have never been so glad to pass a course and never have to retake ever again. This course is all about analyzing and solving electrical circuits, beyond what you learned in PHYS 1801. I personally think this is the hardest course in second year because you need to have a unique approach to solving circuit problems. You have to understand HOW a circuit works to be able to solve problems, before throwing formulas all around then perform computations. Moreover, you have to master the basics of circuits: how voltage, current, and resistance work, Kirchhoff's Laws, how to tell if resistors are in series, parallel, or neither, etc. 

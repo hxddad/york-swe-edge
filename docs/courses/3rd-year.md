@@ -14,14 +14,13 @@ So I have no information (yet) on the following:
 - EECS 3421 - Introduction to Database Systems (Big Data Stream, not to be confused with EECS 3214)
 - EECS 3451 - Signals & Systems (General Stream)
 
-<div align="center">
 
 ![3rd year courses](../../static/img/3rd-yr-classes.png)
 
-</div>
 
 ---
-## S-Tier
+## 😎 S-Tier
+
 ### EECS 3101 - Design & Analysis of Algorithms
 
 EECS 3101 is heavy in theory and uses mathematical proofs. It covers proving loop invariants, complexities, Greedy, Divide-and-Conquer, Minimum Spanning Trees, and Dynamic Programming. These algorithms would mostly be asked in big tech/name company online assignments and interviews. Just as in EECS 2101, LeetCode would help a bunch in grasping these complicated concepts. Again, this course is also about proving algorithms plus writing them, so this is definitely one of the harder courses in the 3rd year.
@@ -31,7 +30,8 @@ EECS 3101 is heavy in theory and uses mathematical proofs. It covers proving loo
 
 
 ---
-## A-Tier
+## 🙂 A-Tier
+
 
 ### EECS 3214 - Computer Network Protocols & Applications
 [Coming soon...]
@@ -41,14 +41,15 @@ EECS 3101 is heavy in theory and uses mathematical proofs. It covers proving loo
 
 ---
 
-## B-Tier
+## 🤔 B-Tier
 
 ### EECS 3221 - Operating Systems
 [Coming soon...]
 
 
 ---
-## C-Tier
+## 😒 C-Tier
+
 ### ESSE 2210 - Engineering & The Environment
 
 Nope, not EECS, it's ESSE (Earth and Space Science and Engineering). This course involves looking at environmental issues and advances such as climate change, global warming, pollution, green energy and technologies, the IPCC, etc. Note that this course may involve essay writing, which may depend on the professor.  
@@ -57,7 +58,7 @@ When I took the course, it was fully online, including the tests, so I found it 
 
 ---
 
-## D-Tier
+## 😢 D-Tier
 
 ### EECS 3201 - Digital Logic Design
 
@@ -68,8 +69,6 @@ This was personally one of my least favorite courses because it was pretty borin
 Like EECS 2021, this is a core class for people who want to go into embedded systems, FPGA development, robotics and other electrical-computing fields; otherwise, it's pretty useless.
 
 ---
-
-## F-Tier
 
 ## Haven't Taken Yet
 I have yet to take EECS 3342 and ENG 3000, stay tuned here for updates!

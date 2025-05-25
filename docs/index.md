@@ -31,12 +31,12 @@ I will however **NOT** be rating classes based on **how tough the professors are
 
 Next, I'll categorize these classes using the following:
 
-- S-tier 😎: Essential in the real world, ignoring difficulty.
-- A-tier 🙂: Useful and doable.
-- B-tier 🤔: Difficult, but worth the effort of learning.
-- C-tier 😒: Not very useful but doable.
-- D-tier 😢: Nice to know but not worth your time, just grasp the foundations.
-- F-tier 😭: Difficult and completely useless.
+- 😎 S-tier: Essential in the real world, ignoring difficulty.
+- 🙂 A-tier: Useful and doable.
+- 🤔 B-tier: Difficult, but worth the effort of learning.
+- 😒 C-tier: Not very useful but doable.
+- 😢 D-tier: Nice to know but not worth your time, just grasp the foundations.
+- 😭 F-tier: Difficult and completely useless.
 
 My tier list is based on my experience and opinion, so take it with a grain of salt! This list assumes a student who graduated from an Ontario high school:
 
