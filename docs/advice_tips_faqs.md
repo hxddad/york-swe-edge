@@ -53,11 +53,13 @@ To find online electives for the summer, you can go to the York **Courses Websit
 
 Summer EECS courses are a little tricky, there's no guarantee the EECS courses you want will be offered in the summer. Albeit from my experience, I have found this trend with summer EECS courses **(in no way this is factual information, take this with a grain of salt):**
 
-- Any **mandatory or elective** EECS courses that are taken by **both** Computer Science and Software/Computer Engineering students will also **likely** be offered in the summer, like EECS 2030, 2021, 2101, 3101, 3221, 3311 for mandatory classes and EECS 3214, 3421, 3461, 3421 for EECS electives.
+- Any **mandatory or elective** EECS courses that are taken by **both** Computer Science and Software/Computer Engineering students will also **likely** be offered in the summer. This includes core classes (EECS 2030, 2021, 2101, 3101, 3221, 3311) and EECS electives (EECS 3214, 3421, 3461, 3421).
 
 - Specialized courses that **only Software/Computer Engineers** take **or** if Software/Computer Engineers **outnumber** the **few Computer Science** students in the class, will **unlikely** be offered in the summer, like EECS 2311, 3342, 3201, 3216 and 3451.
 
 - Core Software/Computer Engineering courses in 1st and 2nd year are mostly offered in the summer (with some exceptions from the above point), less often for 3rd year and scarce for 4th year.
+
+- Courses offered in the recent summer semester will also be likely be offered in the next summer semester
 
 For your own research, it's recommended that you look at the courses offered in the last summer term on [VSB](http://hxddad.io/york-swe-edge/advice_tips_faqs#planning-ahead-using-visual-schedule-builder-vsb) to have an idea on what could be taken in the next summer term.
 
@@ -72,4 +74,4 @@ I used to complain about this all the time (honestly, sometimes I still do). The
 
 Many people think engineering is taking 5-7 courses per semester, but it doesn't have to be this way. I wouldn't even want to put anybody through hell of taking 6+ courses a semester. However, if you're diligent enough, this could be doable. For me however, I can only handle max 4 courses per semester. I tried taking 5 courses, but I ended up hurting myself every time I do so. It sucks having to take less courses than your peers, but you should do what's best for you. 
 
-Everybody is different, it's your own journey, not a race against anybody else. I determined this rule for myself called the **4 / 4 / 2 rule**. I take 4 courses per semester and 2 in the summer. This balances out to somebody taking 5 courses in the fall and winter. It has so far worked with me and I have never dropped a course since!
+Everybody is different, it's your own journey with your, not a race against anybody else. I determined this rule for myself called the **4 / 4 / 2 rule**. I take 4 courses per semester and 2 in the summer. This balances out to somebody taking 5 / 5 in the fall and winter. It has so far worked with me and I have never dropped a course since!
