@@ -2,7 +2,9 @@
 
 A personal guide and resource hub for Software Engineering students at York University, built with [Docusaurus](https://docusaurus.io/). This is also helpful for Computer Science, Computer Security, Computer Engineering and Electrical Engineering students.
 
-## 📚 About
+> Note: this project is unaffiliated with York University and is based on my personal experience.
+
+## About
 
 **York SWE Edge** is a student-driven project aimed at helping Software Engineering students navigate their degree. It covers:
 
@@ -12,9 +14,7 @@ A personal guide and resource hub for Software Engineering students at York Univ
 - Elective and summer course recommendations
 - Personal experiences and insights
 
-> This project is unaffiliated with York University and is based on personal experience.
-
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -51,21 +51,17 @@ To deploy manually:
 npm run deploy
 ```
 
-## 🗂️ Project Structure
+## Project Structure
 
 - `docs/` — Main documentation content (courses, advice, etc.)
 - `src/` — Custom React components and theme overrides
 - `static/` — Static assets (images, .nojekyll)
 - `docusaurus.config.ts` — Docusaurus site configuration
 
-## ✨ Contributing
+## Contributing
 
 Contributions, suggestions, and corrections are welcome! Please open an issue or pull request.
 
-## ⭐️ Show Your Support
+## Show Your Support
 
 If you found this guide helpful, consider starring the [GitHub repo](https://github.com/hxddad/york-swe-edge)!
-
----
-
-Made with ❤️ by [Yazan (hxddad)](https://github.com/hxddad)
