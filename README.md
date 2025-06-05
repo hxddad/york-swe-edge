@@ -61,7 +61,3 @@ npm run deploy
 ## Contributing
 
 Contributions, suggestions, and corrections are welcome! Please open an issue or pull request.
-
-## Show Your Support
-
-If you found this guide helpful, consider starring the [GitHub repo](https://github.com/hxddad/york-swe-edge)!
