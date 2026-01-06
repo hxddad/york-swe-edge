@@ -22,7 +22,7 @@ I am hoping this to be a long-term project until I graduate, as I expand on more
 
 ## Course Rating Criteria
 
-I'm going to rank classes similarly to this [video](https://www.youtube.com/watch?v=LgA7uIiMNIg) from Tamer Shaheen, who ranks his mechanical engineering classes in a tier list. Similarly to his video, I will ask these four questions:
+I'm going to rank classes similarly to this video from Tamer Shaheen: [Ranking Engineering Courses from Easiest to Hardest](https://www.youtube.com/watch?v=LgA7uIiMNIg) , who ranks his mechanical engineering classes in a tier list. Similarly to his video, I will ask these four questions:
 
 1. How difficult is it to grasp the course content?
 2. How is the workload?
@@ -30,7 +30,7 @@ I'm going to rank classes similarly to this [video](https://www.youtube.com/watc
 4. Is it useful in the real world?
 
 
-> 🛑 **Note:** I will **NOT** be rating classes based on **how the professors are**. Professors run classes differently, so a manageable class might be harder than it needs to be (the opposite is also true). 
+> 🛑 **Note:** I will **NOT** be rating classes based on **how the professors are**. Professors run classes differently, so a manageable class might be harder than it needs to be (the opposite is also true). This also assumes these courses are done the way and topics that is supposed to be taught.
 
 Next, I'll categorize these classes using the following:
 
@@ -39,10 +39,12 @@ Next, I'll categorize these classes using the following:
 - 🤔 B-tier: Difficult, but worth the effort of learning.
 - 😒 C-tier: Not very useful but doable.
 - 😢 D-tier: Nice to know but not worth your time, just grasp the foundations.
-- 😭 F-tier: Difficult and completely useless.
+- 😭 F-tier: Difficult and completely useless, makes you question why you did engineering in the first place
 
 ## Contributing  
 
-If you find this guide helpful, consider starring it on [GitHub](https://github.com/hxddad/york-swe-edge)! There also may be some errors or issues like grammar or outdated information. If so, feel free to open a pull request.
+I have written a lot on stuff in this guide, so there's room for some errors like grammar or outdated information. If so, feel free to open a pull request!
 
-**Last updated: Nov 9, 2025**
+If you find this guide helpful, consider starring it on [GitHub](https://github.com/hxddad/york-swe-edge)! 
+
+**Last updated: Jan 6, 2026**
