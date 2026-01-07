@@ -69,7 +69,7 @@ const config: Config = {
       title: 'York SWE Edge',
       logo: {
         alt: 'Site Logo',
-        src: 'img/cs-hub-logo.jpg',
+        src: 'img/site-logo.png',
       },
     },
     footer: {

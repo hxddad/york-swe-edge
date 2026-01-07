@@ -22,7 +22,7 @@ I am hoping this to be a long-term project until I graduate, as I expand on more
 
 ## Course Rating Criteria
 
-I'm going to rank classes similarly to this video from Tamer Shaheen: [Ranking Engineering Courses from Easiest to Hardest](https://www.youtube.com/watch?v=LgA7uIiMNIg) , who ranks his mechanical engineering classes in a tier list. Similarly to his video, I will ask these four questions:
+I'm going to rank classes similarly to this video from Tamer Shaheen: [Ranking Engineering Courses from Easiest to Hardest](https://www.youtube.com/watch?v=LgA7uIiMNIg), who ranks his mechanical engineering classes in a tier list. Similarly to his video, I will ask these four questions:
 
 1. How difficult is it to grasp the course content?
 2. How is the workload?
@@ -39,7 +39,7 @@ Next, I'll categorize these classes using the following:
 - 🤔 B-tier: Difficult, but worth the effort of learning.
 - 😒 C-tier: Not very useful but doable.
 - 😢 D-tier: Nice to know but not worth your time, just grasp the foundations.
-- 😭 F-tier: Difficult and completely useless, makes you question why you did engineering in the first place
+- 😭 F-tier: Difficult and completely useless, makes you question why you did engineering in the first place.
 
 ## Contributing  
 
