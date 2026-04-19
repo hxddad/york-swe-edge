@@ -88,7 +88,7 @@ This will be your first programming class in engineering, with a C-like programm
 
 This course also assumes you never programmed before. You may be asked to buy an Arduino Grove kit (for ~$100) for the final project at the end of the course. You may rarely or never MATLAB in upper year courses however. Although, depending on the professor, you may use MATLAB again in future courses like EECS 3451 (Signals & Systems) for signal processing.  
 
-If you've never coded before, I would advise you to learn the coding fundamentals like variables, scoping, loops, and more for future classes. I made my first [personal project](https://github.com/hxddad/arduinovid19-assessment) with the board using MATLAB (and Java [EECS 1021](/courses/1st-year#eecs-1021)). 
+If you've never coded before, I would advise you to learn the coding fundamentals like variables, scoping, loops, and more for future classes. I made my first [personal project](https://github.com/hxddad/arduinovid19-assessment) with the board using MATLAB (and Java [EECS 1021](/courses/1st-year#eecs-1021-oop-from-sensors-to-actuators-in-java)). 
 
 **Assuming you have basic coding skills without knowing MATLAB:**
 
