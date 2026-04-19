@@ -17,8 +17,9 @@ Engineering has an overwhelming number of courses you will take, including cours
 
 I am hoping this to be a long-term project until I graduate, as I expand on more knowledge and experience moving forward. 
 
-> ⚠️ **Warning:** This is an unofficial guide unaffiliated with York University. So, expect the information here to be based on my own opinion and experience.
-
+:::warning
+This is an unofficial guide unaffiliated with York University. So, expect the information here to be based on my own opinion and experience.
+:::
 
 ## Course Rating Criteria
 
@@ -29,8 +30,9 @@ I'm going to rank classes similarly to this video from Tamer Shaheen: [Ranking E
 3. Do you need to know the material for future classes?
 4. Is it useful in the real world?
 
-
-> 🛑 **Note:** I will **NOT** be rating classes based on **how the professors are**. Professors run classes differently, so a manageable class might be harder than it needs to be (the opposite is also true). This also assumes these courses are done the way and topics that is supposed to be taught.
+:::info
+I will **NOT** be rating classes based on **how the professors are**. Professors run classes differently, so a manageable class might be harder than it needs to be (the opposite is also true). This also assumes these courses are done the way and topics that is supposed to be taught.
+:::
 
 Next, I'll categorize these classes using the following:
 
