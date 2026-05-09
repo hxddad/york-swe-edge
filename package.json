@@ -2,7 +2,7 @@
   "name": "york-eecs-edge",
   "version": "0.0.0",
   "private": true,
-  "packageManager": "pnpm@10.18.0",
+  "packageManager": "pnpm@11.0.9",
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
