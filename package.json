@@ -16,7 +16,7 @@
     "typecheck": "tsc"
   },
   "dependencies": {
-    "@babel/plugin-transform-modules-systemjs": "^7.29.7",
+    "@babel/plugin-transform-modules-systemjs": "^8.0.1",
     "@docusaurus/core": "^3.10.1",
     "@docusaurus/plugin-google-gtag": "^3.10.1",
     "@docusaurus/plugin-ideal-image": "^3.10.1",
@@ -29,7 +29,7 @@
     "prism-react-renderer": "^2.4.1",
     "react": "^19.2.7",
     "react-dom": "^19.2.7",
-    "serialize-javascript": "7.0.5",
+    "serialize-javascript": "7.0.6",
     "uuid": "^14.0.0"
   },
   "devDependencies": {
