@@ -46,11 +46,12 @@ I also recommend learning, most importantly, Git and GitHub, along with database
 ---
 ## 🙂 A-Tier
 
-### MATH 2930: Introduction to Probability & Statistics 
-**Disclaimer:** I did not take this course, but I did take an equivalent course to this at another university. This will be one of the easier math courses to take in your degree. If you've taken Data Management in an Ontario high school, this course should be easy; otherwise, it's not bad. This course is useful if you plan on doing ML and Big Data courses, as they rely heavily on statistics.
+### MATH 2930: Engineering Statistics 
+
+This is another computational math course like MATH 1025, so I didn't find it difficult. I would argue this is the easiest MATH course in SE, well that would mostly depend on the professor. The concepts are mostly basic and trivial to wrap around (except when you get to the probability chapter).
 
 :::tip[ranking]
-🟡 Difficulty: 6/10
+🟡 Difficulty: 5/10
 🎯 Usefulness: 7/10
 :::
 
