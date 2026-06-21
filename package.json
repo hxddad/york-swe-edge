@@ -30,7 +30,7 @@
     "react": "^19.2.7",
     "react-dom": "^19.2.7",
     "serialize-javascript": "7.0.5",
-    "uuid": "^14.0.0"
+    "uuid": "^14.0.1"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^3.10.1",
