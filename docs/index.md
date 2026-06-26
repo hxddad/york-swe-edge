@@ -23,6 +23,10 @@ This is an unofficial guide unaffiliated with York University. So, expect the in
 
 ## Course Rating Criteria
 
+:::info
+I will **NOT** be rating classes based on **how the professors are**. Professors run classes differently, so a manageable class might be harder than it needs to be (the opposite is also true). This also assumes these courses are done the way and topics that is supposed to be taught.
+:::
+
 I'm going to rank classes similarly to this video from Tamer Shaheen: [Ranking Engineering Courses from Easiest to Hardest](https://www.youtube.com/watch?v=LgA7uIiMNIg), who ranks his mechanical engineering classes in a tier list. Similarly to his video, I will ask these four questions:
 
 1. How difficult is it to grasp the course content?
@@ -30,9 +34,28 @@ I'm going to rank classes similarly to this video from Tamer Shaheen: [Ranking E
 3. Do you need to know the material for future classes?
 4. Is it useful in the real world?
 
-:::info
-I will **NOT** be rating classes based on **how the professors are**. Professors run classes differently, so a manageable class might be harder than it needs to be (the opposite is also true). This also assumes these courses are done the way and topics that is supposed to be taught.
+And grade them by **usefulness** and **difficulty**:
+
+:::tip[Example ranking]
+🟡 Difficulty: 6/10
+🧩 Usefulness: 6/10
 :::
+
+### Difficulty (1-10)
+
+- 🟢 Easy (1-3): Requires minimal effort to pass, mostly course content being trivial.
+- 🟡 Medium (4-6): Good effort needs to be put in to do well in the course. Topics are mostly straightforward to grasp with maybe some harder topics here and there.
+- 🔥 Hard (7-8): Needs more investment than the average course, takes time to understand most of the course material.
+- 💀 Very Hard (9-10): Heavy attention is required with difficult topics and workload, they'll be your hardest classes in the SWE program.
+
+### Usefulness (1-10)
+
+- 💤 Useless (1-3): Nice to know, but there's little to no relevance of what you'll likely be doing after graduation. Additionally, the class is a pre-requisite to just one future course or no course at all. Its content also may be very similar to a past course where you won't learn a whole lot (ex. CHEM 1100, EECS 2200).
+- 🧩 Somewhat Useful (4-6): In theory you don't strictly need this course to work as a developer, but it can change the way of how you see things within or outside of your technical work. Can be useful for very niche fields like formal verification, quantum computing, OS development, embedded systems, etc. It also may be a pre-requisite to some classes (ex. EECS 2021, MATH 1014, PHYS 1801).    
+- 🎯 Useful (7-8): You don't need to be an expert in the domain, but it can help when you approach certain problems and encounters as a developer. Useful in more common domains like Machine Learning, Cybersecurity, Databases, Data Science, etc. Also useful in general outside of technical work and life. Finally, it can be a pre-requisite to a lot of courses in your upper years. (ex. EECS 2032, EECS 3221, ESSE 2210)
+- 💀 Vital (9-10): The course topics will always show up in your work as a software developer / engineer and interviewing for these roles, no matter how much you avoid them.
+
+### Final Tier Grading
 
 Next, I'll categorize these classes using the following:
 
