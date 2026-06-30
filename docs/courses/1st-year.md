@@ -17,7 +17,7 @@ Know the Java syntax and OOP well, it will come in handy for future programming 
 
 Similar to EECS 1011 (see below), you may use a hardware kit such as the [Arduino Grove Beginner Kit](https://wiki.seeedstudio.com/Grove-Beginner-Kit-For-Arduino/) in some of your assignments, projects and labs.
 
-Despite Java being a bit old, it's still also widely used in the industry at enterprises (specifically software for large organizations)!
+Despite Java being a bit old, it's still also widely used in the industry at enterprise companies!
 
 **Assuming you have basic coding skills without knowing Java:**
 
@@ -32,9 +32,9 @@ Despite Java being a bit old, it's still also widely used in the industry at ent
 
 
 ### MATH 1025: Applied Linear Algebra
-You will learn about and apply linear algebra concepts such as matrices, vectors, linear transformations, eigenvalues, eigenvectors, etc. If you've taken Calculus & Vectors (MCV4U) from an Ontario highschool, it should give you the upper leg. 
+You will learn about and apply linear algebra concepts such as matrices, vectors, linear transformations, eigenvalues, eigenvectors, etc. If you've taken Calculus & Vectors (MCV4U) from an Ontario highschool, the vectors portion should cover you for the course topics. 
 
-It's a useful course if you want to go into advanced and niche fields like machine learning, computer vision, quantum computing, etc. Even if you don't, It's also useful to know once you take MATH 2015 in 2nd year, which is calculus that builds upon linear algebra concepts.
+It's a useful course when you have to take MATH 2015 in 2nd year, which is calculus that builds upon linear algebra concepts. Moreover, some of the topics will come up when you decide to go into fields like machine learning, computer vision, quantum computing, etc.
 
 **Assuming you took 12U Calculus + Vectors in highschool:**
 
@@ -48,7 +48,7 @@ This will be your first ever ENG course, which will cover (obviously as the cour
 
 :::tip[ranking]
 🟢 Difficulty: 3/10
-🚀 Usefulness: 9/10
+🧩 Usefulness: 6/10
 :::
 
 
@@ -130,13 +130,13 @@ You will also have a laboratory component where you will work on experiments rel
 :::
 
 ### ENG 1102: Engineering Design Principles 
-This ENG course will be your first design course. Just as the course title says, you'll be taught about engineering designs for solving problems through drawings, frameworks, models, aesthetics, etc. This class is handy if you're in mechanical or civil engineering. Some of the projects I did was using 3D modeling software like Fusion 360 (and possibly 3D printing them). I honestly didn't really find this course useful I feel like it's mainly aimed at mechanical, civil and space engineering. 
+This ENG course will be your first design course. Just as the course title says, you'll be taught about engineering designs for solving problems through drawings, frameworks, models, aesthetics, etc.
 
-You may also be placed in a group to propose an engineering design as a potential solution for a current world or local problem. Make sure you are focusing on a design for a technical problem, rather than a social problem. Just like ENG 1101, straightforward class.  
+Some of the projects I did was creating a 3D model of an iPhone case using TinkerCAD (yes I don't want to use Fusion 360). I learned this class is mainly aimed at mechanical, civil and space engineering. Just like ENG 1101, straightforward class.  
 
 :::tip[ranking]
 🟡 Difficulty: 4/10
-💤 Usefulness: 3/10
+🧩 Usefulness: 6/10
 :::
 
 ---

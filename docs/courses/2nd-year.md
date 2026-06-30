@@ -16,12 +16,12 @@ This tier list assumes you passed all classes and applying the knowledge you lea
 This is the predecessor course for EECS 1021. You will touch on advanced (also very important) OOP principles such as inheritance, polymorphism, aggregation and composition, shallow copy and deep copy, interfaces, abstract classes, etc. I would take this course ASAP (ideally in the fall of your 2nd year) because it unlocks so many courses in 2nd year and beyond, that require EECS 2030 as a prerequisite.
 
 :::tip[ranking]
-🟡 Difficulty: 6/10
+🔥  Difficulty: 7/10
 🚀 Usefulness: 10/10
 :::
 
 ### EECS 2101: Fundamentals of Data Structures 
-Previously known as EECS 2011, this is the most important and my favourite course in 2nd year. You will learn about data structures that you'll need for coding interviews or online coding assessments (arrays, stacks, queues, linked lists, hashmaps, heaps, trees and graphs), as well learning the best usage for these data structures in problems. You will also touch a bit on algorithms, like sorting, tree and graph traversals (e.g., Djikstra). The course is manageable in the first half, but it gets tough when you get to trees and graphs. 
+Previously known as EECS 2011, this is my favourite course in 2nd year. You will learn about data structures that you'll need for coding interviews or online coding assessments (arrays, stacks, queues, linked lists, hashmaps, heaps, trees and graphs), as well learning the best usage for these data structures in problems. You will also touch a bit on algorithms, like sorting, tree and graph traversals (e.g., Djikstra). The course is manageable in the first half, but it gets tough when you get to trees and graphs. 
 
 EECS 2101 will go into more theory than actually implementing them in coding problems from my experience (it could be different with other professors). I recommend doing LeetCode problems utilizing data structures to expand your understanding on them. I also rarely did any proofs in the course, but again it can depend on the professor.
 
@@ -36,10 +36,11 @@ You will be put into a group throughout the semester of this course, developing 
 It also covers common and important SWE practices in the industry like testing, code reviews, user stories, agile software development, etc.
 
 I also recommend learning, most importantly, Git and GitHub, along with databases with SQL before taking this course, don't wait until the class covers them. Sure, they will teach these things in the course from scratch, but it may not be effective for your learning. You will be ahead of everybody else taking this course if you dedicate some time learning these things yourself in your freetime.
+
 **Depends on your group and project, but generally:**
 
 :::tip[ranking]
-🟡 Difficulty: 5/10
+🟡 Difficulty: 6/10
 🎯 Usefulness: 8/10
 :::
 
@@ -66,7 +67,7 @@ This class was also the reason I created my LinkedIn page. I highly recommend to
 
 :::tip[ranking]
 🟡 Difficulty: 5/10
-🎯 Usefulness: 6/10
+🧩 Usefulness: 6/10
 :::
 
 ### ENG 2001: Engineering Projects: Management, Economics, and Safety 
@@ -74,7 +75,7 @@ ENG 2001 is your engineering economics course where you also learn about project
 
 :::tip[ranking]
 🟡 Difficulty: 5/10
-🎯 Usefulness: 6/10
+🧩 Usefulness: 6/10
 :::
 
 ---
@@ -82,7 +83,9 @@ ENG 2001 is your engineering economics course where you also learn about project
 ## 🤔 B-Tier
 
 ### EECS 2021: Computer Organization 
-One of my favourite 2nd year courses. In this course, you will learn topics related to both hardware, such as gates, memory, and number systems (binary, octal, decimal, hexadecimal), cache, pipelining. You will also learn assembly programming, using RISC-V. It's a vital course if you want to look into fields like embedded systems, firmware design, FPGAs, etc. **As of Fall 2025:** Verilog is not taught anymore (finally!) and instead, the 2nd half of the labs are using an ESP 32 microcontroller in RISC-V. Be warned that this course is time-consuming, and I would recommend spending a good amount of time for this course. If you are interested or considering going into hardware, EECS 2021 is an important course for that matter. 
+One of my favourite 2nd year courses. In this course, you will learn topics related to both hardware, such as gates, memory, and number systems (binary, octal, decimal, hexadecimal), cache, pipelining. You will also learn assembly programming, using RISC-V. It's a vital course if you want to look into fields like embedded systems, firmware design, FPGAs, etc. 
+
+**As of Fall 2025:** Verilog is not taught anymore (finally!) and instead, the 2nd half of the labs are using an ESP 32 microcontroller in RISC-V. Be warned that this course is time-consuming, and I would recommend spending a good amount of time for this course. If you are interested or considering going into hardware, EECS 2021 is an important course for that matter. 
 
 :::tip[ranking]
 💀 Difficulty: 9/10
@@ -98,7 +101,7 @@ The embedded systems part of the course is just programming a microcontroller us
 
 :::tip[ranking]
 🔥 Difficulty: 8/10
-🎯 Usefulness: 8/10
+🎯 Usefulness: 7/10
 :::
 
 ### MATH 2015: Applied Multivariate & Vector Calculus 

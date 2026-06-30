@@ -17,7 +17,7 @@ As usual, this tier list assumes you passed all classes and applying the knowled
 ### EECS 3311 - Software Design
 This course is all about software design ensuring organized code. You'll learn about software design patterns, documentation, best practices, etc. You may also be assigned a project to do with a group. 
 
-We had do implement a parking booking system at York University with given requirements and constraints. I was however fairly disappointed that we had to use Java Swing (that can only be run in the editor) and use a CSV as a database. This isn't optimal as a project to put on a resume, companies value more modern tools being used in the industry. If you can, I recommend recreating the project with moderns tools as a project.
+We had do implement a parking booking system at York University with given requirements and constraints. However, we had to use Java Swing and (yikes!) use a CSV as a database. This isn't optimal as a project to put on a resume, companies value more modern tools being used in the industry. If you can, I recommend recreating the project with moderns tools as a project.
 
 **Depends on your group, but generally:**
 
@@ -27,11 +27,11 @@ We had do implement a parking booking system at York University with given requi
 :::
 
 ### EECS 3482 - Introduction To Computer Security
-This course is essentially a brief intro to computer security. It is mostly a conceptual course, where the tests don't require critical thinking, it's simply memorization and understanding of the topics.
+This course is essentially a brief intro to computer security. It is mostly a conceptual course, where the tests are mostly memorization and understanding of the topics in my experience.
 
 Even if you won't work in cybersecurity, you should understand how to prevent and recognize cybersecurity attacks in software. This is relevant especially now with AI where vulnerabilities are growing and evolving much faster than we've seen.
 
-There are also labs for this course where you'll use relevant computer security tools, which were quite interesting to do. You'll be doing labs such as malware detection, penetration testing, etc.
+There are also labs for this course where you'll use relevant computer security tools, which were quite interesting to do. You'll be doing labs such as malware detection, penetration testing, running virtual machines, etc.
 
 :::tip[ranking]
 🟡 Difficulty: 6/10
@@ -47,7 +47,7 @@ EECS 3214 is a deeper dive into computer networks and how the Internet communica
 
 :::tip[ranking]
 🔥 Difficulty: 7/10
-🎯 Usefulness: 7/10
+🎯 Usefulness: 8/10
 :::
 
 ### ESSE 2210 - Engineering & The Environment
@@ -58,7 +58,7 @@ When I took the course, it was fully online, including the tests, so I found it 
 
 :::tip[ranking]
 🟡 Difficulty: 5/10
-🧩 Usefulness: 7/10
+🎯 Usefulness: 7/10
 :::
 
 ---
@@ -67,7 +67,7 @@ When I took the course, it was fully online, including the tests, so I found it 
 
 ### EECS 3101 - Design & Analysis of Algorithms
 
-EECS 3101 is heavy in theory and uses mathematical proofs. It covers proving loop invariants, complexities, Greedy, Divide-and-Conquer, Minimum Spanning Trees, and Dynamic Programming. These algorithms may be asked in big tech / name company online assignments and interviews. Just as in EECS 2101, LeetCode would help a bunch in grasping these complicated concepts. Again, this course is also about proving algorithms plus writing them, so this is definitely one of the harder courses in the 3rd year.
+EECS 3101 is heavy in theory and uses mathematical proofs. It covers proving loop invariants, complexities, Greedy, Divide-and-Conquer, Minimum Spanning Trees, and Dynamic Programming. It helps to gain a mathematical perspective on writing these solutions for interviews and online assessments at bigger companies. Just as in EECS 2101, LeetCode would help a bunch in grasping these complicated concepts. Again, this course is also about proving algorithms plus writing them, so this is definitely one of the harder courses in the 3rd year.
 
 :::tip[ranking]
 💀 Difficulty: 10/10
@@ -110,7 +110,7 @@ You will be using a hardware-description language on an FPGA called Verilog. Ass
 
 This was personally one of my least favorite courses because it was pretty boring and I felt like I was taking another class for the credit. You will learn how to design digital circuits using concepts from MATH 1028 and EECS 2021, involving Boolean logic, binary numbers, registers, logic gates, etc. Note that this is different (and easier) from the circuits in EECS 2200. However, this is also a heavy course because of the labs + lecture content (consequently being worth 4.0 credits), so keep that in mind.
 
-Like EECS 2021, this is a core class for people who want to go into embedded systems, FPGA development, robotics and other electrical-computing fields; otherwise, it's pretty useless.
+Like EECS 2021, this is a core class for people who want to go into embedded systems, FPGA development, robotics and other electrical-computing fields; otherwise, it's not that useful.
 
 :::tip[ranking]
 💀 Difficulty: 9/10
@@ -123,7 +123,7 @@ This class is about taking problems and solving in using refinements in discrete
 
 There will also be programming in the course, adding into the difficulty. You will be using Rodin Event-B to model mathematical solutions. You most likely will never use Rodin in your job. In fact, it's used in very few [industrial and research projects](https://wiki.event-b.org/index.php/Industrial_Projects) revolving around safety-critical systems.
 
-I found this course interesting, but still challenging regardless. You'll also need it when you take EECS 4315 (Mission-Critical Systems), which is essentially a sequel of EECS 3342, which is why I placed it in D-tier. If you'd like to check out the course content, here's a [public resource](https://www.eecs.yorku.ca/~wangcw/teaching/lectures/#EECS3342_F25) too look at created by a professor who teaches the course. Here is also a note from the same professor addressing concerns and FAQ about the course: [EECS3342 (System Specification & Refinement) What It’s Really For: A Note from Your Instructor](https://www.eecs.yorku.ca/~wangcw/teaching/lectures/2025/F/EECS3342/notes/EECS3342-F25-Q&A.pdf)
+I found this course interesting, but still challenging regardless. You'll also need it when you take EECS 4315 (Mission-Critical Systems), which is essentially a sequel of EECS 3342, which is why I placed it in D-tier.
 
 :::tip[ranking]
 💀 Difficulty: 9/10
