@@ -7,10 +7,6 @@ const sidebars: SidebarsConfig = {
       id: 'home',  
     },
     {
-      type: 'doc',
-      id: 'advice_tips_faqs', 
-    },
-    {
       type: 'category',
       label: 'Courses', 
       items: [
@@ -31,6 +27,10 @@ const sidebars: SidebarsConfig = {
         }
       
       ],
+    },
+    {
+      type: 'doc',
+      id: 'advice_tips_faqs', 
     },
   ],
 };
